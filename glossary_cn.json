@@ -1,0 +1,1226 @@
+[
+  {
+    "category": "A",
+    "name": "Absolute effect 绝对效应",
+    "url": "",
+    "definition": "Absolute effect is the effect of an exposure on an outcome expressed as the difference between risks, proportions or means as opposed to the ratio of these measures.\n \n 绝对效应是指某种暴露对结果的影响，以风险、比例或平均值之间的差异表示，而非这些指标的比率。"
+  },
+  {
+    "category": "A",
+    "name": "Absolute rate 绝对率",
+    "url": "",
+    "definition": "Absolute rate is the number of specified events (e.g., disease onset, deaths) divided by the time at risk in a defined population over a specified time interval.\n \n 绝对率是指在特定时间间隔内，针对某一定义人群/种群，在风险时间内发生指定事件（例如疾病发病、死亡等）的次数除以风险时间。"
+  },
+  {
+    "category": "A",
+    "name": "Absolute risk 绝对风险",
+    "url": "",
+    "definition": "Absolute risk is the probability of an event (usually adverse, but may also be beneficial) in the population under study.\n \n 绝对风险是指在研究某一群体中某一事件（通常为不良事件，但也可能为有益事件）发生的概率。"
+  },
+  {
+    "category": "A",
+    "name": "Accuracy 准确性",
+    "url": "random_systematic_error",
+    "definition": "A measurement or observation that is accurate is one in which the measurement or observation is close to the true population value. In the plot below the second and fourth plots from the left show greater accuracy than first and third plots from the left (assuming the centre of the target is the true population value).\n \n 一个准确的测量或观察是指测量或观察结果接近真实的总体值。在下面的图中，从左数第二个和第四个图表的准确度比从左数第一个和第三个图表更高（假设目标中心是真实的总体值）。"
+  },
+  {
+    "category": "A",
+    "name": "Adjustment 调整",
+    "url": "",
+    "definition": "Adjustment is a procedure for a providing a statistical measure in which the effects of differences in composition of the populations being compared have been minimised by statistical methods. Examples are adjustment by regression analysis, by inverse-probability weighting and by standardisation. Adjustment is often performed on a rate or on an effect measure, commonly because of differing age and sex distributions in the populations being compared. The mathematical procedure commonly used to adjust rates for age differences is (direct or indirect) standardisation.\n \n调整是统计方法中的一道工序，通过统计方法最小化比较人群/种群间组成差异的影响。例如，可以通过回归分析、倒数概率加权和标准化进行调整。通常会对比率或效应量进行调整，用于比较人群/种群的年龄和性别分布不同。这种数学方法常用与调整不同年龄分布差异比的（直接或间接）标准化。"
+  },
+  {
+    "category": "A",
+    "name": "Adjustment, direct 直接调整",
+    "url": "",
+    "definition": "With direct adjustment the adjusted count for the ith strata equals the observed disease frequency estimate (i.e., prevalence or incidence) multiplied by a standard population size estimate for the ith strata.\n \n使用直接调整方法，第i层的调整计数等于第i层的观测预估疾病频率（即流行率或新发病率）乘以第i层的标准种群预估大小。"
+  },
+  {
+    "category": "A",
+    "name": "Adjustment, indirect 间接调整",
+    "url": "",
+    "definition": "With indirect adjustment the adjusted count for the ith strata equals a standardised frequency estimate multiplied by the observed population size for the for the ith strata. It is usual to set the standardardised incidence (or prevalence) for the ith strata as the sum of the total number of disease events across all strata divided by the total population size. Using this approach the indirectly adjusted disease count for the ith strata equals the standardardised incidence (or prevalence) multiplied by the population size for each strata. What this provides is the expected number of disease events within each strata assuming the strata-level risk of disease is the same as the entire population. It is common to divide the observed number of disease events per strata by the expected number to return a standardised morbidity or mortality ratio (SMR).\n \n使用间接调整，第i层次的调整计数等于标准化频率估计值乘以第i层次的观察群体数量。通常将第i层次的标准化新发病率（或流行率）设定为所有层次的疾病事件总数除以群体总数量。使用这种方法，第i层次的间接调整疾病计数等于标准化新发病率（或流行率）乘以每个层次的群体数量。这提供了每个层次内预期的疾病事件数量，假设层次水平上的疾病风险与整个群体相同。通常将每层次的观察疾病事件数量除以预期数量，以返回标准化新发病率或死亡率比率（SMR）。"
+  },
+  {
+    "category": "A",
+    "name": "Adjustment sets 调整集",
+    "url": "",
+    "definition": "There are several methods to account for or adjust for the effect of confounding when quantifying exposure-outcome relationships. When you're having to deal with several confounders in an exposure-outcome relationship (not just one) we talk about `adjustment sets'. A sufficient adjustment set is a set of variables Z such that the effect of an exposure variable X on an outcome Y is unconfounded, conditional on adjustment for the effect of Z. The key point is that we're moving away from thinking in terms of single confounders in an exposure-outcome relationship but now consider the more typical scenario where multiple confounders are present.\n \n在量化暴露-结果关系时，有几种方法可以考虑或调整混杂效应。当处理暴露-结果关系中的多个混杂因素时，我们会用到\"调整集\"。足够的调整集是一组变量Z，使得在对Z的效应进行调整的条件下，暴露变量X对结果Y的影响是不受混杂因素影响的。关键点在于，我们不再只考虑暴露-结果关系中的单一混杂因素，而是考虑到多个混杂因素同时存在的典型情况。"
+  },
+  {
+    "category": "A",
+    "name": "Attack rate 袭击率",
+    "url": "",
+    "definition": "Attack rate is the proportion of a population developing illness during a defined period of time.\n \n袭击率是指在一定时间内发生某种疾病的人群/种群数量的比例。"
+  },
+  {
+    "category": "A",
+    "name": "Attributable fraction 归因系数",
+    "url": "AF_s",
+    "definition": "Attributable fraction (aetiologic fraction) describes the proportion of disease in exposed individuals that is due to exposure.\n \n归因系数（病因系数）描述了发病群体中由于暴露因素导致的发病的比例。"
+  },
+  {
+    "category": "A",
+    "name": "Attributable risk 归因风险",
+    "url": "AR_s",
+    "definition": "The attributable risk (risk difference, excess risk, cumulative incidence difference, prevalence difference) provides a measure of the additional risk of disease due to exposure, among the exposed.\n \n归因风险是描述暴露因素对于疾病发生额外风险的一种测量方法。归因风险也被称为风险差、过量风险、累积新发病率差和流行率差。这个概念通常用于流行病学研究中，以评估特定风险因素对疾病发生的贡献。"
+  },
+  {
+    "category": "B",
+    "name": "Berkson's fallacy (bias) 伯克森偏倚",
+    "url": "",
+    "definition": "Berkson's fallacy (Berksonian bias) is a common type of bias in case-control studies, in particular hospital-based studies. It occurs due to differential admission rates between cases and controls who have the risk factor being investigated. This leads to positive (and spurious) associations beteen exposure and the case-control status with the highest exposure-linked admission rate.\nAn example of Berkson's fallacy would be a case-control study where cases are patients with stomach cancer and exposure is history of cirrhosis of the liver. Two scenarios are possible: (1) cases with a history of cirrhosis of the liver are more likely to be admitted to hospital than controls with cirrhosis of the liver, or (2) they are less likely (maybe because of higher mortality). The first scenario may lead to a spurious positive association between disease and exposure and the second to a negative association (i.e., exposure is protective).\n \n伯克森偏倚是一种常见的偏倚类型，尤其在基于临床的病例对照研究中容易出现。它是由于患病组和对照组的入组率不同而导致的。当探讨的风险因素与入组率高的病例-对照状态相关时，这会导致暴露和病例-对照状态之间出现假阳性关联，从而引发偏倚。 一个伯克森偏倚的例子可以是这样的病例对照研究：病例是患有胃癌的患者，而风险因素是肝硬化的历史。有两种可能的情况：（1）患有肝硬化病史的病例比对照更有可能被医院收治，或（2）他们更不可能入选（也许是因为死亡率更高）。第一种情况可能导致疾病与暴露之间的虚假阳性关联，而第二种情况可能导致负相关（即，暴露具有保护作用）。"
+  },
+  {
+    "category": "B",
+    "name": "Bias 偏倚",
+    "url": "",
+    "definition": "Bias (also known as systematic error) is a systematic deviation of results or inferences from the truth. There are two types of bias: (1) selection bias which arises from systematic differences in the enrollment of participants in a study that leads to an incorrect result (e.g., risk ratio or odds ratio) or inference; (2) misclassificiation bias which arises from systematic differences in the collection of data regarding the participants in a study (e.g. about exposures in a case-control study, or about health outcomes in a cohort study) that leads to an incorrect result. Measurement bias is a term used for continuous parameters. Misclassification bias is a term used for binary parameters.\n \n偏倚（也称为系统误差）是指结果或推断与真相存在系统性偏差。偏倚有两种类型：（1）选择偏倚，它源于对研究参与者招募的系统性差异，导致结果（例如风险比或比值比）或推断不正确；（2）分类错误偏倚，它源于对研究参与者的数据收集中存在系统性差异（例如在病例对照研究中的暴露情况或队列研究中的健康结果），导致结果不正确。测量偏倚是用于连续参数的术语，而分类错误偏倚是用于二元参数的术语。"
+  },
+  {
+    "category": "B",
+    "name": "Bias, availability 可用性偏倚",
+    "url": "",
+    "definition": "Availability bias occurs when arguments presented to support an argument or proposal are based on immediate examples that come to a given person's mind. Availability bias operates on the notion that if something can be recalled, it must be important, or at least more important than alternative solutions which are not as readily recalled.\n \n 可用性偏倚是指在支持一个观点或建议的论据中，基于一个人立即想到的例子。可用性偏倚是建立在这样一个概念之上，即如果某些事情可以回忆起来，那么它必定是重要的，或者至少比不容易回忆起来的替代解决方案更重要。"
+  },
+  {
+    "category": "B",
+    "name": "Bias, interviewer 访谈者偏倚",
+    "url": "",
+    "definition": "Interviewer bias (a form of misclassification bias) occurs when an interviewer who is privy to the hypothesis under investigation misclassifies some study subjects as exposed or diseased when really they are not.\n \n访谈者偏倚是指在一项研究中，访谈者了解研究假设后，可能会将一些受访者错误地分类为“接触过暴露因素”或“患有疾病”，而实际上他们并不符合这些分类标准。这种偏差可能导致研究结果偏向于研究假设，从而导致错误的结论。"
+  },
+  {
+    "category": "B",
+    "name": "Bias, length of stay 住院时间偏倚",
+    "url": "",
+    "definition": "Length of stay bias (a form of selection bias) occurs when those who are patients in hospital for relatively long periods of time have a higher likelihood of being requested to take part in observational or experimental studies.\n \n 住院时间偏倚是选择性偏倚的一种，指的是在观察性或实验性研究中，住院时间较长的病例更有可能被纳入研究中。由于住院时间较长的病例更容易被注意到，研究人员更有可能将他（它）们纳入研究，而这些病例可能并不代表整个患病群体。"
+  },
+  {
+    "category": "B",
+    "name": "Bias, misclassification 分类错误偏倚",
+    "url": "",
+    "definition": "Misclassification bias arises from systematic differences in the collection of data regarding the participants in a study (e.g., about exposures in a case-control study or about health outcomes in a cohort study) that leads to an incorrect result. Measurement bias is a term used for continuous parameters. Misclassification bias is a term used for binary parameters.\n \n分类错误偏倚是指在研究参与者的数据收集过程中出现系统性差异从而导致结果不正确的偏差（例如在病例对照研究中针对暴露情况的研究或队列研究中关于健康结果的记录）。测量偏倚这个术语用于连续参数，而分类错误偏倚这个术语用于二元参数。"
+  },
+  {
+    "category": "B",
+    "name": "Bias, non-response 无应答偏倚",
+    "url": "",
+    "definition": "Non-response bias (a form of selection bias) occurs when the characteristics of those selected to take part in a study influences the likelihood of their consenting to take part.\n \n 无应答偏倚（选择偏倚的一种形式）是指参与研究的人的特征会影响他们同意参加研究的可能性。"
+  },
+  {
+    "category": "B",
+    "name": "Bias, obsequiousness 迎合偏倚",
+    "url": "",
+    "definition": "Obsequiousness bias (a form of misclassification bias) is where study subjects systematically alter their responses in the direction they perceive to be desired by the investigator.\n \n 迎合偏倚（分类错误偏倚的一种形式）是指研究对象会有系统性地改变他们的回答，以符合调查者所期望的方向。"
+  },
+  {
+    "category": "B",
+    "name": "Bias, prevarication 搪塞偏倚",
+    "url": "",
+    "definition": "Prevarication bias (a form of misclassification bias) occurs when study subjects may have ulterior motives for deliberately overestimating exposure to a hypothesised causal agent (e.g., because of a belief that they may be eligible for compensation).\n \n 搪塞偏倚（分类错误偏倚的一种形式）是指研究对象可能因为某些不可告人的动机而故意高估对某个假定的因果因素（例如，因为他们认为可能有资格获得赔偿）。"
+  },
+  {
+    "category": "B",
+    "name": "Bias, recall 回忆偏倚",
+    "url": "",
+    "definition": "Recall bias (a form of misclassification bias) occurs when some study subjects (e.g., cases) are better at recalling the presence or absence of past exposure events, compared with others.\n \n回忆偏倚分类错误偏倚的一种形式）是指在回想曾经接触某些事情时，某些研究对象（如病例）相比其他研究对象更擅长回忆过去的接触事件，从而导致对结果的错误分类的一种分类偏倚。"
+  },
+  {
+    "category": "B",
+    "name": "Bias, selection 选择偏倚",
+    "url": "",
+    "definition": "Selection bias arises from systematic differences in the enrollment of participants in a study that leads to an incorrect result (e.g., risk ratio or odds ratio) or inference.\n \n 选择偏倚是指在研究对象的招募过程中存在系统性差异，从而导致结果偏差（例如风险比或比值比）或推断不正确。"
+  },
+  {
+    "category": "B",
+    "name": "Bias, survival 生存偏倚",
+    "url": "",
+    "definition": "Survival bias (a form of selection bias) occurs when treatment results in enhanced longevity of some study subjects, leading to an apparent increase in the prevalence of the disease being treated.\n \n生存偏倚是一种选择性偏倚。当治疗导致某些研究对象寿命延长，从而导致所治疾病流行率表面上增加时，就会出现生存偏倚。"
+  },
+  {
+    "category": "C",
+    "name": "Case-control study 病例对照研究",
+    "url": "case_control_study",
+    "definition": "A case-control study is an observational epidemiological study of individuals with disease (or another outcome variable) and a suitable control group of individuals without the disease (also known as the comparison or reference group).\n \n病例对照研究是流行病学上对疾病（或其他结果变量）病例和适当的对照组（也称为比较组或参考组）进行观察的研究方法。"
+  },
+  {
+    "category": "C",
+    "name": "Case-crossover study 交叉病例对照研究",
+    "url": "",
+    "definition": "A case-crossover study is an observational analogue of an experimental cross-over study. It can be used when a brief exposure triggers an outcome or causes a transient rise in the risk of a disease with an acute onset (e.g., to assess the effect of medication use on the short-term risk of myocardial infarction). A key difference between a traditional case-control study and the case-crossover design is that in the latter each case serves as its own matched control.\n \n交叉病例对照研究是实验交叉设计的观察性类比。当短暂的暴露会引发结果或导致急性发病的疾病的风险短暂升高时，可以使用此设计（例如，评估药物使用对心肌梗死短期风险的影响）。传统病例-对照研究和交叉病例对照研究设计之间的一个关键区别在于，交叉病例对照研究中每个病例都作为其自身的匹配控制组。"
+  },
+  {
+    "category": "C",
+    "name": "Case definition 病例定义",
+    "url": "",
+    "definition": "A case definition is a set of criteria (not necessarily diagnostic criteria) that must be fulfilled in order to identify a person as representing a case of a particular disease. In disease outbreak situations a case definition is comprised of epidemiological criteria and clinical criteria.\n \n 病例定义是指必须满足的一组标准（不一定是诊断标准），以便将一个个体确定为特定疾病的病例。在疾病暴发情况下，病例定义由流行病学标准和临床标准组成。"
+  },
+  {
+    "category": "C",
+    "name": "Case reports 病例报告",
+    "url": "",
+    "definition": "Case reports are detailed descriptions of a small number of patients or clinical cases (sometimes a single sick individual) with an unsual disease or complication, uncommon combinations of diseases, an unusual cause or outcome.\n \n病例报告是对少量患者或临床病例（有时是一个病例）的详细描述，描述的可能是罕见疾病或并发症、罕见的疾病组合、罕见的病因或结果。"
+  },
+  {
+    "category": "C",
+    "name": "Case series 系列病例",
+    "url": "",
+    "definition": "A case series is a collection of patients with common characteristics used to describe some clinical, pathophysiological, or operational aspect of a disease, treatment, or diagnostic procedure.\n \n系列病例是一组具有共同特征的患者的集合，用于描述某种疾病、治疗或诊断程序的一些临床、病理生理或操作方面。"
+  },
+  {
+    "category": "C",
+    "name": "Causation 病因",
+    "url": "",
+    "definition": "A cause is an event, condition or characteristic that precedes a disease event, and without which the disease event would not have occurred at that time (Rothman and Greenland, 2005). There are two causal models used in epidemiology: (1) a component cause model (comprised of component, necessary and sufficient causes; and (2) a causal web model.\n \n病因是指在疾病事件发生之前的事件、条件或特征，如果没有这些因素，疾病事件在那个时间点不会发生（Rothman和Greenland，2005）。在流行病学中使用了两个因果模型：（1）组成因素模型（包括组成因素、必要和充分因素）；（2）因果网络模型。"
+  },
+  {
+    "category": "C",
+    "name": "Cause, necessary 必要因素",
+    "url": "",
+    "definition": "A necessary cause is a component cause without which the disease cannot occur (the factor will always be present if the disease occurs).\n \n 必要因素是指没有该因素疾病无法发生的组成因素（如果疾病发生，则该因素将始终存在）。"
+  },
+  {
+    "category": "C",
+    "name": "Cause, component 组成病因",
+    "url": "",
+    "definition": "Component causes are conditions that are causally related to the presence of disease. Characteristics such as high cholesterol, smoking, lack of exercise, genetics, and the presence of concurrent diseases are all component causes of coronary heart disease in humans.\n \n组成病因是与疾病存在因果关系的条件。高胆固醇、吸烟、缺乏运动、遗传以及存在并发症等特征都是导致人类冠心病的组成原因。"
+  },
+  {
+    "category": "C",
+    "name": "Cause, sufficient 充分原因",
+    "url": "",
+    "definition": "A sufficient cause always produces the disease of interest (that is, if the factor is present the disease invariably follows). A sufficient causal complex is made up of several component causes.\n \n足以导致某种疾病（即，如果因素存在，则疾病必然发生）的因素被称为充分原因。充分原因复杂性由若干成因组成。"
+  },
+  {
+    "category": "C",
+    "name": "Central Limit Theorem 中心极限定理",
+    "url": "",
+    "definition": "The Central Limit Theorem states that if you have a population with a mean of mu and standard deviation sigma and you take sufficiently large samples from the population with replacement the distribution of the sample means will be approximately normal. The standard deviation of the sample means will be equal to the standard deviation of the sample means divided by the square root of the number of samples taken.\n \n 中心极限定理指出，如果你有一个均值为mu，标准差为sigma的总体，且你从总体中采取足够大的样本进行替换，那么样本均值的分布将近似于正态分布。样本均值的标准差将等于样本均值的标准差除以采样数量的平方根。"
+  },
+  {
+    "category": "C",
+    "name": "Chance 几率",
+    "url": "",
+    "definition": "If a valid measurement was repeated over and over again, with the same sampling and other methods, the average answer would be the true population parameter value. Any single measurement result will be different from the true population parameter value due to random error. An estimate that is relatively free from random error is said to be precise. Chance effects can be overcome with a larger sample size. \n \n如果使用相同的抽样和其他方法，对有效的测量进行反复重复，平均答案将是真实的总体参数值。由于随机误差，任何单个测量结果都将与真实的总体参数值不同。相对不受随机误差影响的估计被称为精确。随机误差可以通过增加样本量来克服。"
+  },
+  {
+    "category": "C",
+    "name": "Chemoprophylaxis 化学预防",
+    "url": "",
+    "definition": "Chemoprophylaxis is drug treatment designed to prevent future occurrences of disease. Treatment may be chemotherapy as far as an individual is concerned but chemoprophylactic for the population as a whole.\n \n化学预防是指旨在预防未来疾病发生的药物治疗。治疗可能对于个体而言是化疗，但对于整个人群而言则是化学预防。"
+  },
+  {
+    "category": "C",
+    "name": "Close contact infection 密切接触感染",
+    "url": "",
+    "definition": "Close contact infection is an infection which requires close contact, other than sexual contact, between susceptible and infectious individuals, for transmission.\n \n 密切接触感染是指需要在传染源和易感人群之间通过密切接触才能进行传播的感染。这种传播通常不包括性接触。"
+  },
+  {
+    "category": "C",
+    "name": "Cluster sampling 聚类抽样",
+    "url": "",
+    "definition": "Cluster sampling is a sampling method in which each unit selected is a group of individuals (e.g., all persons in a city block, a family) rather than an individual.\n \n 聚类抽样是一种抽样方法，每个被选中的单元是一组个体（例如，一个城市街区中的所有人，或一个家庭），而不是个体本身。"
+  },
+  {
+    "category": "C",
+    "name": "Cohort study 队列研究",
+    "url": "cohort_study",
+    "definition": "A cohort study is an observational study in which subsets of a defined population can be identified who are, have been, or in the future may be exposed or not exposed, or exposed in different degrees, to a factor or factors hypothesised to influence the occurrence of a given disease or other outcome. The main feature of a cohort study is observation of large numbers of study subjects over a long period (commonly years), with comparison of incidence rates in groups that differ in exposure levels. Cohort studies may be prospective or retrospective.\n \n 队列研究是一种观察性研究，可以确定一个已定义的人群/种群中可能暴露或未暴露于某种疾病或其他结果影响因素的子集，这些病例现在可能已经暴露、未暴露或在未来可能会暴露或未暴露。队列研究的主要特征是对大量研究对象进行长时间观察（通常是数年），比较不同暴露水平组的发病率。队列研究可以是前瞻性或回顾性的。"
+  },
+  {
+    "category": "C",
+    "name": "Colinearity 共线性",
+    "url": "",
+    "definition": "When performing multiple regression, it is useful to examine correlations between explanatory variables. If two explanatory variables are positively correlated with each other then the partial regression coefficients will be smaller than the separate regression coefficients. Note that some degree of correlation between explanatory variables is to be expected. Correlation is only a problem when it is so high that the partial regression coefficients are misleading or their standard errors become unduly large. If two explanatory variables are highly correlated, then only one of them should be included in the model. When explanatory variables are highly correlated, the situation is called colinearity.\n \n在执行多元回归时，检查自变量之间的相关性很有用。如果两个自变量彼此正相关，则偏回归系数将小于单独回归系数。请注意，自变量之间存在一定程度的相关性是可以预期的。相关性仅在非常高时才会成为问题，此时偏回归系数可能会误导，或其标准误可能变得过大。如果两个自变量高度相关，则应只包含其中一个自变量在模型中。当自变量高度相关时，这种情况称为共线性。"
+  },
+  {
+    "category": "C",
+    "name": "Collider variable 碰撞变量",
+    "url": "",
+    "definition": "A collider variable is a variable that is caused by both the exposure and the outcome.\n \n一个碰撞变量是指既受暴露因素影响又受结局影响的变量。"
+  },
+  {
+    "category": "C",
+    "name": "Common continuous source epidemic 常见连续来源流行病",
+    "url": "",
+    "definition": "A common continuous source epidemic is an epidemic in which exposure to an infectious agent or toxin occurs over an extended period of time (over more than one incubation period in the case of infectious agents). The down slope of the curve may be sharp if the common source is removed or gradual if the outbreak is allowed to exhaust itself.\n \n 常见连续来源流行病是指在较长时间内（感染性病原体情况下超过一个潜伏期）持续接触某种传染性病原体或毒素所引起的流行病。如果消除了共同来源，则流行病曲线下降得很快；如果允许疫情自行消退，则曲线下降得相对缓慢。"
+  },
+  {
+    "category": "C",
+    "name": "Common point source epidemic 常见点源流行病",
+    "url": "",
+    "definition": "A common point source epidemic is an epidemic in which a group of individuals are all exposed to an infectious agent or a toxin from the same (point, i.e., single) source.\n \n 常见点源流行病是指一组个体都从同一个源头（即单一来源）接触到了一个传染病毒或毒素的流行病。"
+  },
+  {
+    "category": "C",
+    "name": "Community trial 社区试验",
+    "url": "",
+    "definition": "A community trial is an experiment in which the unit of allocation to receive a preventive, therapeutic, or social intervention is an entire community or political subdivision.\n \n 社区试验是一种实验，其中接受预防、治疗或社会干预的分配单元是整个社区或政治行政区划。"
+  },
+  {
+    "category": "C",
+    "name": "Conditional effects 条件效应",
+    "url": "",
+    "definition": "A conditional effect is the average effect of an exposure (e.g., treatment) on an individual. A marginal effect is the average effect of an exposure  on the population. Estimated conditional and marginal effects can differ in certain situations. The most commonly encountered situations are when the exposure effect is expressed as an odds ratio or hazard ratio. Marginal and conditional estimates are equal with risk ratios or with linear regressions. The scenarios where marginal and conditional odds ratio or hazard ratio estimates differ are those when the difference between odds (or hazard) ratios and risk ratios are greatest. This will occur then the outcome is relatively common and the explanatory variables included in the regression model are highly predictive of the outcome.\n \n条件效应是指暴露（例如治疗）对个体的平均效应。边际效应是暴露对总体的平均效应。在某些情况下，估计的条件和边际效应可能会有所不同。最常见的情况是暴露效应以比值比或风险比表达时。在风险比或线性回归中，边际和条件估计相等。边际和条件比值比或风险比估计不同的情况是当比值比（或风险比）和风险比之间的差异最大时。这将发生在结果相对普遍且回归模型中包括的解释变量高度预测结果的情况下。"
+  },  
+  {
+    "category": "C",
+    "name": "Confidence interval 置信区间",
+    "url": "",
+    "definition": "Confidence limits define the lower and upper bounds of an unknown true population parameter (e.g., a population mean or a population prevalence). Two-sided confidence limits form a confidence interval, their one-sided counterparts are referred to as lower or upper confidence bounds.\n \n 置信边界定义了一个未知的真实总体参数（例如总体均值或总体患病率）的下限和上限。双侧置信边界形成置信区间，其单侧对应物称为下限或上限置信界限。"
+  },
+  {
+    "category": "C",
+    "name": "Confounding 混杂",
+    "url": "confounding",
+    "definition": "Confounding refers to the distortion of the true association between an exposure and an outcome of interest because of the influence of a third factor. To be a confounder three criteria must be met: (1) the confounder must be a risk factor for the outcome; (2) the confounder must be associated with the exposure; and (3) the confounder must not be an intermediate step in the causal pathway between the exposure and the outcome. \n \n混杂是指由于第三个因素的影响而扭曲暴露与感兴趣结果之间的真实关联。要成为混杂因素，必须满足三个条件：（1）混杂因素必须是结果的风险因素；（2）混杂因素必须与暴露有关联；（3）混杂因素不能是暴露与结果之间的因果中介变量。"
+  },
+  {
+    "category": "C",
+    "name": "Contact rate 接触率",
+    "url": "",
+    "definition": "Contact rate is the rate at which susceptibles meet (i.e., come into contact with) infected individuals. Contact rate is usually measured as the number of effective contacts that occur per unit time.\n \n接触率是指易感人群/种群与感染者接触（即发生接触）的速率。接触率通常以单位时间内发生的有效接触次数来衡量。"
+  },
+  {
+    "category": "C",
+    "name": "Containment 遏制",
+    "url": "",
+    "definition": "Containment is the process of completely preventing transmission of disease from an affected individual.\n \n遏制是指完全防止受感染者传播疾病的过程。"
+  },
+  {
+    "category": "C",
+    "name": "Criterion 标准",
+    "url": "",
+    "definition": "Criteria (the plural of criterion) can be of two kinds: factors and constraints. A factor (also known as a decision variable) is a criterion that enhances or detracts from the suitability of a specific alternative. A constraint serves to limit the alternatives under consideration. A good example of a constraint would be the exclusion from development of areas designated as wildlife reserves.\n \n 标准可以分为两种类型：因素和限制条件。因素（也称为决策变量）是一种增强或削弱特定替代方案适用性的标准。限制条件用于限制考虑的替代方案。一个好的例子是将指定为野生动物保护区的地区排除在开发之外，这是一种限制条件。"
+  },
+  {
+    "category": "C",
+    "name": "Cross-sectional study 横断面研究",
+    "url": "cross_sectional_study",
+    "definition": "A cross-sectional study assesses the relationship between diseases (or other health outcomes) and other variables of interest as they exist in a defined population at one particular time.\n \n横断面研究是指在某个特定时间点上，对一个定义的人群/种群中的疾病（或其他健康结果）和其他感兴趣的变量之间的关系进行评估的研究。"
+  },
+  {
+    "category": "C",
+    "name": "Crude morbidity rate 粗发病率",
+    "url": "",
+    "definition": "Crude morbidity rate is an estimate of the portion of a population that experience a given illness during a specified period. The numerator is the number of individuals identified with the outcome of interest during the period. The denominator is the number in the population, usually estimated as the mid-year population size.\n \n粗发病率是指在指定的一段时间内，一个人群/种群中出现某种特定疾病的数量占该群体总数的比例。其中，分子是在这段时间内被诊断或确诊为感兴趣疾病的数量，而分母则通常是该群体在这段时间内的总体数量，通常估算为中间年度群体规模。"
+  },
+  {
+    "category": "C",
+    "name": "Crude mortality rate 粗死亡率",
+    "url": "",
+    "definition": "Crude mortality rate is an estimate of the portion of a population that dies during a specified period. The numerator is the number of individuals dying during the period. The denominator is the number in the population, usually estimated as the mid-year population size.\n \n粗死亡率是指在指定的一段时间内，一个人群/种群中死亡数量占该群体总数的比例。其中，分子是在这段时间内死亡的数量，而分母则通常是该群体在这段时间内的总体数量，通常估算为中间年度群体规模。"
+  },
+  {
+    "category": "C",
+    "name": "Cumulative incidence sampling 累积新发病率抽样",
+    "url": "",
+    "definition": "Cumulative incidence sampling is a method for selecting controls for a case-control study. With cumulative incidence sampling (also known as survivor sampling) controls are selected from individuals who remain free of the outcome of interest at the end of the case recruitment period.\n \n 累积新发病率抽样是病例对照研究中选择控制组的一种方法。使用累积新发病率抽样（也称生存者抽样），从在病例招募期结束时仍未出现关注结果的个体中选择控制组。"
+  },
+  {
+    "category": "D",
+    "name": "Depopulation 清群",
+    "url": "",
+    "definition": "Depopulation is the act of removing (usually by slaughter) susceptible animals from a farm location that has been infected or has most likely been infected. A depopulation strategy refers to the target time set within a strategy to depopulate an infected premises following detection of infection. For example, with foot-and-mouth disease outbreaks in non-endemic countries a common depopulation strategy is to slaughter and remove all animals within 24 hours of the farm being detected as infected.\n \n 清群是指将易感动物（通常通过屠宰）从已被感染或极可能被感染的农场位置中清除的行为。 清群策略是指在目标时间内对发现感染后的场所清群策略。例如，在非口蹄疫地方流行的国家出现暴发时，常见的清群策略是在发现农场感染后的24小时内屠宰和清除所有动物。"
+  },
+  {
+    "category": "D",
+    "name": "Descriptive study 描述性研究",
+    "url": "",
+    "definition": "A descriptives study is a study concerned with and designed only to describe the existing distribution of variables without regard to causal relationships or other hypotheses. Descriptive studies are useful for generating hypotheses about disease determinants.\n \n 描述性研究是一种关注并仅旨在描述变量的现有分布的研究，而不考虑因果关系或其他假设。描述性研究可用于生成关于疾病决定因素的假设。"
+  },
+  {
+    "category": "D",
+    "name": "Design 设计",
+    "url": "",
+    "definition": "An experiment is usually carried out to study one or more variables. These variables are called factors in the experiment. Each factor may be investigated at several `settings' (e.g., drug dose). These settings are called the levels of the factor. An experiment consists of a number of separate `runs' or measurements. The manner in which levels of all factors are changed from one run to the next is the experimental design. If every level of every factor appears an equal number of times, the design is said to be balanced.\n \n通常进行实验以研究一个或多个变量。这些变量在实验中称为因素。每个因素都可以在多个“设置”（例如，药物剂量）下进行研究。这些设置称为因素水平。一个实验由许多单独的“运行”或测量组成。所有因素水平从一个运行到下一个运行的变化方式是实验设计。如果每个因素的每个水平都出现相同数量的次，据说设计是平衡的。"
+  },
+  {
+    "category": "D",
+    "name": "Design effect 设计效应",
+    "url": "",
+    "definition": "The design effect is an adjustment made to find a survey sample size appropriate for the sampling method (e.g., cluster sampling, respondent driven sampling, stratified sampling). Use of a design effect results in larger sample sizes (or wider confidence intervals) compared with those calculated assuming simple random sampling.\n \n 设计效应是对调查样本进行调整以适应抽样方法（例如，群集抽样，受访者驱动抽样，分层抽样）的一种方法。使用设计效应会导致比假定简单随机抽样计算的样本量更大（或置信区间更宽）。"
+  },
+  {
+    "category": "D",
+    "name": "Design prevalence",
+    "url": "",
+    "definition": "Detection of disease at a high prevalence is much easier than detection at low prevalence, so it is necessary to specify the prevalence(s) at which we will determine the sensitivity of a surveillance system component. This prevalence, set for the purpose of drawing conclusions about the effectiveness of the surveillance system component against an agreed standard, is called the design prevalence. The design prevalence forms part of the design of a quantitative surveillance system assessment and is not related to any actual prevalence of disease in the population under study (when we are considering issues of freedom from disease, design prevalence should be zero). It is not subject to uncertainty or variability and does not need to be described by a probability distribution.\n \n 设计流行率是指为了针对约定标准评估监测系统组成部分的有效性而设定的流行率。在高流行率下检测疾病比在低流行率下容易得多，因此需要指定确定监测系统组成部分敏感性的流行率。设计流行率是监测系统定量评估的一部分，与所研究人群/种群中实际疾病流行率无关（当考虑证明无疫问题时，设计流行率应为零）。它不受不确定性或可变性影响，也不需要用概率分布来描述。"
+  },
+  {
+    "category": "D",
+    "name": "Deterministic model 确定性模型",
+    "url": "",
+    "definition": "A deterministic model is a mathematical model in which the parameters and variables are not subject to random fluctuations, so that the system is at any time entirely defined by the initial conditions chosen.\n \n确定性模型是一种数学模型，其中参数和变量不受随机波动的影响，因此该系统在任何时刻都完全由所选初始条件定义。"
+  },
+  {
+    "category": "D",
+    "name": "Diagnostic test interpretation, parallel 诊断试验的并行解释",
+    "url": "",
+    "definition": "Parallel interpretation of diagnostic test results means that when multiple tests are performed an individual is declared positive if at least one of the tests returns a positive result. Interpreting test results in parallel increases the sensitivity and therefore the negative predictive value for a given disease prevalence. However, specificity and positive predictive value are lowered. As a consequence, if a large number of tests are performed and interpreted in parallel then virtually every individual will be classified as positive.\n \n诊断试验结果的并行解释意味着当执行多个试验时，只要其中一个试验返回阳性结果，就将个体定义为阳性。并行解释试验结果增加了敏感性，因此在既定疾病流行率的情况下，提高了阴性预测值。但是，特异性和阳性预测值会降低。因此，如果执行大量并行试验，则几乎每个个体都将被分类为阳性。"
+  },
+  {
+    "category": "D",
+    "name": "Diagnostic test interpretation, series 系列解释诊断试验结果",
+    "url": "",
+    "definition": "Series interpretation of diagnostic tests results means that when multiple tests are performed an individual is declared positive if all tests return a positive result. Series interpretation increases specificity and therefore the positive predictive value which means that more confidence can be attributed to positive results. It reduces sensitivity and negative predictive value. As a consequence, if a large number of tests are performed and interpreted in series then virtually every individual will be classified as negative (which means that diseased individuals will be missed.\n \n系列解释诊断试验结果意味着当进行多个测试时，只有当所有测试返回阳性结果时，才会宣布个体为阳性。系列解释增加了特异性，因此增加了阳性预测值，这意味着可以对阳性结果更加有信心。它降低了灵敏度和阴性预测值。因此，如果进行大量测试并按系列解释，则几乎每个个体都会被分类为阴性（这意味着将错过患病的个体）。"
+  },
+  {
+    "category": "D",
+    "name": "Disease incursion 疾病/疫病入侵",
+    "url": "",
+    "definition": "A disease incursion is the introduction of disease into a population of susceptible individuals. The incursion date is the date of introduction of disease into a population of susceptible individuals.\n \n疾病入侵是指将疾病引入易感群体的过程。入侵日期是指将疾病引入易感群体的日期。"
+  },
+  {
+    "category": "D",
+    "name": "Dissemination 传播",
+    "url": "",
+    "definition": "Dissemination is the transmission of an infectious agent by various means, such as the movement of infectious individuals through a susceptible population.\n \n传播是指通过各种途径传输传染病原体，例如通过感染个体在易感群体中的传播。"
+  },
+  {
+    "category": "D",
+    "name": "Dunning-Kruger effect 邓宁-克鲁格效应",
+    "url": "",
+    "definition": "The Dunning-Kruger effect is a cognitive bias whereby people with limited knowledge or competence in a given domain greatly overestimate their own knowledge or competence in that domain relative to objective criteria or to the performance of their peers or of people in general.\n \n 邓宁-克鲁格效应是一种认知偏差，表现为在某个特定领域知识或能力有限的人极大地高估了自己在该领域的知识或能力，而与客观标准、同行或一般人的表现相比则存在巨大的差距。"
+  },
+  {
+    "category": "D",
+    "name": "Dynamic population 动态群体",
+    "url": "",
+    "definition": "A dynamic population is a population in which individuals enter and exit over time. The inhabitants of a city would form a dynamic population.\n \n 动态群体是指群体中有个体随时间进入和退出。例如，城市的居民将形成动态群体。"
+  },
+  {
+    "category": "E",
+    "name": "Ecological fallacy 生态谬误",
+    "url": "",
+    "definition": "Ecological fallacy refers to the process of deducing individual behaviour from aggregate data. The term originates from Robinson (1950) who noted that in ecological correlation, the statistical unit of interest is a group of individuals. Robinson concluded that ecological and individual correlations are almost always not equal. Thus, ecological fallacy occurs when analyses based on group data lead to conclusions that are different from those based on individual data. The resulting bias is often called ecological bias. Ecological bias is composed of two components: aggregation bias (which arises due to the grouping of the individuals) and specification bias (due to the differential distribution of confounding variables created by grouping).\n \n生态谬误是指从总体数据中推断个体行为的过程。这个术语源于罗宾逊（1950）的研究，他注意到在生态相关性中，感兴趣的统计单元是一个群体。罗宾逊得出结论：生态和个体相关性几乎总是不相等的。因此，当基于群体数据的分析导致结论与基于个体数据的结论不同时，就会出现生态谬误。所产生的偏差通常被称为生态偏差。生态偏差包括两个组成部分：聚合偏差（由于个体的分组）和规范偏差（由于分组所创建的混杂变量的差异分布）。"
+  },
+  {
+    "category": "E",
+    "name": "Ecological study 生态学研究",
+    "url": "",
+    "definition": "An ecological study is a study in which the units of analysis are populations rather than individuals.\n \n生态学研究是一种分析单位为群体而不是个体的研究。"
+  },
+    {
+    "category": "E",
+    "name": "Effects, conditional 条件效应",
+    "url": "",
+    "definition": "A conditional effect is the average effect of an exposure (e.g., treatment) on an individual. A marginal effect is the average effect of an exposure  on the population. Estimated conditional and marginal effects can differ in certain situations. The most commonly encountered situations are when the exposure effect is expressed as an odds ratio or hazard ratio. Marginal and conditional estimates are equal with risk ratios or with linear regressions. The scenarios where marginal and conditional odds ratio or hazard ratio estimates differ are those when the difference between odds (or hazard) ratios and risk ratios are greatest. This will occur then the outcome is relatively common and the explanatory variables included in the regression model are highly predictive of the outcome.\n \n条件效应是一种暴露（例如治疗）对个体产生的平均效应。边际效应是暴露对人群产生的平均效应。在某些情况下，估计的条件效应和边际效应可能会不同。最常见的情况是当暴露效应被表达为比值比或风险比时。在风险比或线性回归中，边际和条件估计值是相等的。当边际和条件比值比或风险比的估计值不同时，这些情况包括比值比和风险比之间的差异最大的情况。这将发生在结果相对常见且回归模型中包含的解释变量高度预测结果的情况下。"
+  },
+  {
+    "category": "E",
+    "name": "Effects, marginal 边际效应",
+    "url": "",
+    "definition": "A marginal effect is the average effect of an exposure (e.g., treatment) on the population. A conditional effect is the average effect of an exposure on an individual. Estimated conditional and marginal effects can differ in certain situations. The most commonly encountered situations are when the exposure effect is expressed as an odds ratio or hazard ratio. Marginal and conditional estimates are equal with risk ratios or with linear regressions. The scenarios where marginal and conditional odds ratio or hazard ratio estimates differ are those when the difference between odds (or hazard) ratios and risk ratios are greatest. This will occur then the outcome is relatively common and the explanatory variables included in the regression model are highly predictive of the outcome.\n \n边际效应是暴露（例如治疗）对群体的平均影响。一个条件效应是暴露对个人的平均影响。在某些情况下，估计的条件效应和边际效应可能会有所不同。遇到这种情况最常见的是暴露效应以比值比或风险比表示的情况。在风险比或线性回归中，边际效应和条件效应是相等的。当边际比和条件比之间的差异最大时，边际和条件比值比或危险比估计值可能会有所不同。这种情况通常发生在结果相对常见且回归模型中包括的解释变量对结果具有高度预测能力的情况下。"
+  }, 
+  {
+    "category": "E",
+    "name": "Elimination 消除",
+    "url": "",
+    "definition": "Elimination means that disease is no longer present in a defined geographic area as a result of deliberate efforts. Elimination means that control measures are needed to: (a) prevent incursion of the disease; and/or (b) reduce the likelihood of transmission if an incursion of disease does occur.\n \n消除是指在人为努力下疾病不再存在于某一特定地理区域。消除是指需要采取控制措施来：(a) 防止疾病侵袭；和/或 (b) 减少由疾病入侵而带来的传播的可能性。"
+  },
+  {
+    "category": "E",
+    "name": "Empirical 实证",
+    "url": "",
+    "definition": "Empirical data are data based directly on experience (e.g., observation or experiment) rather than on reasoning or theory alone.\n \n 实证数据是指基于经验直接获得的数据，而不是仅仅基于推理或理论。例如，观察或实验获得的数据就是实证数据。"
+  },
+  {
+    "category": "E",
+    "name": "Endemic 地方性流行病",
+    "url": "",
+    "definition": "Endemic is a term to describe levels of disease which do not exhibit wide fluctuations through time in a defined place. Stable endemicity is where the incidence of infection or disease shows no secular trend for increase or decrease.\n \n地方性流行病是用来描述在某个明确定义的地方疾病水平没有显著波动的术语。稳定的地方性流行病是指感染或疾病的发病率没有明显的增长或下降趋势。"
+  },
+  {
+    "category": "E",
+    "name": "Epidemic 流行病",
+    "url": "",
+    "definition": "Epidemics may arise from the introduction of a novel pathogen (or strain) to a previously unexposed (naÔve) population or as a result of the regrowth of susceptible numbers some time after a previous epidemic due to the same infectious agent.\n \n 流行病可能由以下原因引起：1）将一种新病原体（或菌株）引入先前未暴露过的易感群体中；2）由于相同传染性病原体，一段时间后再次暴发疫情，易感群体数量重新增长。"
+  },
+  {
+    "category": "E",
+    "name": "Epidemiology 流行病学",
+    "url": "",
+    "definition": "Epidemiology is the study of the frequency, distribution and determinants of health-related states in populations, and, the application of such knowledge to control health problems.\n \n 流行病学是研究群体健康状态的频率、分布和决定因素，以及将这些知识应用于控制健康问题的学科。"
+  },
+  {
+    "category": "E",
+    "name": "Eradication 消灭",
+    "url": "",
+    "definition": "Eradication is the permanent reduction to zero of the worldwide incidence of disease caused by a specific agent as a result of deliberate efforts. When a disease has been eradicated control or intervention measures are no longer required. The requirements and preconditions that need to be considered when formulating an eradication program fall into two main general categories: (1) technical-epidemiological, and (2) socio-economic, operational and administrative (Yekutiel 1980). The technical-epidemiological preconditions are: (a) there should be a main tool that can be used as a control measure to break disease transmission. This tool should be simple to apply and be relatively inexpensive; and (b) the disease should have epidemiological features that facilitate effective case detection in the advanced stages of the eradication program. The socio-economic, operational and administrative preconditions are: (a) the disease must be of recognised socio-economic importance (at either or both the national and international level); (b) there should be a specific reason for eradication (as opposed to control); (c) there should be adequate administrative, operational and financial resources available for the entire eradication program; and (d) there should be an absence of cultural or social conditions that render the methods used to eradicate disease unacceptable to stakeholders. Eradication programs need to be based on a simple, inexpensive, completely effective method of breaking transmission, and clear evidence that eradication is preferable over control. The mix of technical, economic and social factors must all be favourable for a program to be successful.\n \n消灭是指通过有意识的努力将某一特定病原体引起的全球发病率永久降至零。当一种疾病被消灭后，就不再需要控制或干预措施。制定消灭计划时需要考虑的条件和前提条件分为两个主要类别：（1）流行病学技术；（2）社会经济、操作和管理。流行病学技术的前提条件是：（a）应有一种主要的工具可用作控制措施以打破疾病传播。这种工具应该简单易用并且相对便宜；（b）该疾病应具有流行病特征，在消灭计划的后期可以有效地检测到病例。社会经济、操作和管理的前提条件包括：（a）该疾病必须是公认的具有社会经济重要性的疾病（在国家和国际上均如此）；（b）必须有明确的消灭理由（与控制相对）；（c）必须有足够的行政、操作和财政资源用于整个消灭计划；（d）必须不存在使消灭疾病方法对利益相关者不可接受的文化或社会条件。消灭计划需要基于一种简单、廉价、完全有效的打破传播的方法，并有明确的证据表明消灭优于控制。技术、经济和社会因素的组合都必须有利于计划的成功。"
+  },
+  {
+    "category": "E",
+    "name": "External validity 外部效度",
+    "url": "",
+    "definition": "External validity is the validity of applying the conclusions of a scientific study outside the context of that study. In other words, it is the extent to which the results of a study can be generalised to and across other situations, people, stimuli, and times.\n \n 外部有效性是指在科学研究的上下文之外应用研究结论的有效性。换句话说，它是一项研究结果能够推广到其他情境、群体、反应和时间的程度。"
+  },
+  {
+    "category": "F",
+    "name": "Fallacy, ad hominem 攻击人论证谬误",
+    "url": "",
+    "definition": "Ad hominem fallacy (argumentum ad hominem) is a false or mistaken argument in which someone attacks the character, motive, or some other attribute of the person making a proposal rather than addressing the substance of the argument itself.\n \n攻击人论证谬误是指一种错误的论证方式，攻击提议人的品格、动机或其他属性，而不是直接针对论点本身进行讨论。"
+  },  
+  {
+    "category": "F",
+    "name": "Fallacy, appeal to authority 权威论证谬误",
+    "url": "",
+    "definition": "Appeal to authority fallacy (argumentum ad verecundiam) is a false or mistaken argument in which the opinion of an authority on a topic is used as evidence to support an argument.\n \n 权威论证谬误是一种错误的论证方式，将某个领域的权威人士的意见用作支持某个论点的证据。"
+  }, 
+  {
+    "category": "F",
+    "name": "Fallacy, appeal to emotion 情感诉求论证谬误",
+    "url": "",
+    "definition": "Appeal to emotion fallacy (argumentum ad passiones) is a false or mistaken argument characterised by the manipulation of the recipient's emotions in order to win an argument, usually in the absence of factual evidence.\n \n情感诉求论证谬误是一种错误的论证，其特征是在没有事实依据的情况下操纵接收者的情感，以赢得争论。"
+  }, 
+  {
+    "category": "F",
+    "name": "Fallacy, appeal to ignorance 无知引用论证谬误",
+    "url": "",
+    "definition": "Appeal to ignorance fallacy (argumentum ad ignorantiam) is a false or mistaken argument in which someone argues either for or against something because there is no contradicting evidence. Appeal to ignorance fallacy is based on the mistaken assumption that a lack of evidence is evidence.\n \n 无知引用论证谬误是一种错误的论证方式，其特点是因为缺乏证据而支持或反对某个主张。无知引用谬误基于一个错误的假设，即缺乏证据就是证据。"
+  },   
+  {
+    "category": "F",
+    "name": "Fallacy, black or white 非黑即白论证谬误",
+    "url": "",
+    "definition": "Black or white (also known as false dilemma, false dichotomy, either/or, or false choice) fallacy is a false or mistaken argument in which someone presents only two sides when there are, in reality, many options or sides.\n \n无非黑即白论证谬误是一种错误的论证方式，其中某人只提出了两种观点，而实际上存在许多选项或观点。"
+  },   
+  {
+    "category": "F",
+    "name": "First order effects 一阶效应",
+    "url": "",
+    "definition": "First order (or trend) effects describe the variation in the mean value of a process in space: that is, the global or large scale trend.\n \n 一阶效应（或趋势效应）描述了过程的均值在空间上的变化：也就是全局或大尺度的趋势。"
+  },
+  {
+    "category": "F",
+    "name": "Fixed cohort 固定队列",
+    "url": "",
+    "definition": "A fixed cohort (also known as a closed population) is a population in which no individuals enter or exit the population over time. A group of individuals born in a single calendar year followed for a defined time frame would form a fixed cohort.\n \n固定队列（也称为封闭群体）是指随着时间的推移，没有个体进入或离开该群体。一个在单个日历年出生的个体组成的固定队列会在一段定义好的时间内被跟踪。"
+  },
+  {
+    "category": "F",
+    "name": "Fomites 传染载体",
+    "url": "",
+    "definition": "Fomites are inanimate objects (such as vehicles and farm machinery) which can be become contaminated with an infectious agent and transmit infection between individuals, farms or groups of animals.\n \n传染载体是指可以被病原体污染并在个体、农场或动物群体之间传播感染的无生命物体，例如车辆和农业机械等。"
+  },
+  {
+    "category": "F",
+    "name": "Force of infection 传染力",
+    "url": "",
+    "definition": "The force of infection is the per capita rate at which susceptibles become infected.\n \n传染力是易感群体感染病原体的人均速率。"
+  },
+  {
+    "category": "G",
+    "name": "Geographic information system 地理信息系统",
+    "url": "",
+    "definition": "A geographic information system (GIS) is a system designed to capture, store, manipulate, analyse, manage and present all types of geographical data. A GIS can be thought of as a system that provides spatial data entry, management, retrieval, analysis and visualisation functions. The underlying reason for using a GIS in a human or animal health information system is to enable the spatial component of health to be incorporated in the reporting and analysis of surveillance data.\n \n地理信息系统（GIS）是一种旨在捕获、存储、操作、分析、管理和展示各种地理数据的系统。可以将GIS视为提供空间数据输入、管理、检索、分析和可视化功能的系统。在人类或动物健康信息系统中使用GIS的根本原因是使健康的空间组成部分能够纳入监测数据的报告和分析中。"
+  },
+  {
+    "category": "H",
+    "name": "(The) Hawthorne effect 霍桑效应",
+    "url": "",
+    "definition": "The Hawthorne effect refers to a type of reactivity in which individuals modify an aspect of their behaviour in response to their awareness of being observed.\n \n 霍桑效应指的是一种反应性，即个体因意识到被观察而改变其行为方面的现象。"
+  },
+  {
+    "category": "H",
+    "name": "(The) healthy worker effect 健康工作者效应",
+    "url": "",
+    "definition": "Healthy worker effect bias arises when individuals prematurely leave a population at risk due to the occurrence of (usually) health disorders. This means that when a cross-sectional study is carried out at a time well after the time of exit of these individuals we're left with a population that is (often) substantially different in composition to the population we started with: only the healthy or `robust' individuals remain. The presence of healthy worker effect bias means that we're likely to get distorted estimates of the strength of the association between given exposures and a study outcome if only cross-sectional data are used.\n \n健康工作者效应偏倚是指由于健康状况问题，个体提前离开了风险群体，这导致研究群体中只有剩下的健康或“强壮”的个体。这意味着，在进行横断面研究时，时间点通常是在这些个体离开后，我们留下的群体组成与我们开始时的群体组成有很大不同。健康工作者效应偏倚的存在意味着，如果仅使用横断面数据，我们可能会得到关于特定暴露因素与研究结果之间关联程度的扭曲估计。"
+  },
+  {
+    "category": "H",
+    "name": "Herd immunity 群体免疫",
+    "url": "",
+    "definition": "In a population in which a large number of individuals are immune, chains of infection are likely to be disrupted, which stops or slows the spread of disease. The greater the proportion of individuals in a community who are immune, the smaller the probability that those who are not immune will come into contact with an infectious individual.\n \n 在一个大量个体具有免疫力的群体中，感染链可能会被中断，从而阻止或减缓疾病的传播。在一个社区中免疫个体的比例越大，未免疫个体与感染个体接触的概率就越小。"
+  },
+  {
+    "category": "H",
+    "name": "Hill's criteria for causation 因果关系的希尔准则",
+    "url": "",
+    "definition": "Hill's criteria to support an argument that there is a causal relationship between an exposure and an outcome are: (1) is the association between the exposure and the outcome strong? (2) is there consistency in the exposure-outcome relationship across diffferent populations? (3) is the temporal sequence between exposure and development of the outcome correct? (4) is there a dose response relationship between the exposure and the outcome? (5) is the exposure-outcome relationship plausible and coherent with current knowledge? (6) is there experimental evidence to support the exposure-outcome relationship? (7) is the exposure-outcome relationship specific? That is, does the exposure cause a specific [distinct] outcome? and (8) does an analogy for the exposure-outcome relationship already exist?\n \n因果关系的希尔准则用于支持某一暴露与某一结果之间存在的因果关系，包括：（1）暴露与结果之间的关联强度是否充分？（2）在不同人群中是否存在暴露-结果关系的一致性？（3）暴露与结果之间的时间顺序是否正确？（4）暴露与结果之间是否存在剂量-响应关系？（5）暴露-结果关系是否符合当前知识的可行性和一致性？（6）是否有实验性证据支持暴露-结果关系？（7）暴露-结果关系是否具有特异性？即，暴露是否导致特定的结果？（8）是否已经存在暴露-结果关系的类比？"
+  },
+  {
+    "category": "H",
+    "name": "Holoendemic 全地性疾病",
+    "url": "",
+    "definition": "Holoendemic refers to the situation where the prevalence of disease is relatively uniform throughout a region, country or continent.\n \n 全地性疾病是指在一个地区、国家或大陆中疾病患病率相对均匀的情况。"
+  },
+  {
+    "category": "H",
+    "name": "Host 宿主",
+    "url": "",
+    "definition": "A host is a plant, animal or arthropod that is capable of being infected with, and therefore giving sustenance to, an infectious agent. infectious agent. Some form of sexual or asexual replication or development of the agent usually occurs in each host of the agent usually occurs in each host. Hosts may be categorised as definitive, primary, secondary, paratenic, intermediate, amplifier, hibernating, incidental (accidental or dead-end), link or reservoir.\n \n宿主是指可以被感染代理或寄生虫感染，并提供营养以维持其生存的植物、动物或节肢动物。该感染代理或寄生虫通常在每个宿主体内进行某种形式的性或无性复制或发育。宿主可以分为决定性、原发性、次要性、旁生性、中间宿主、扩增器、冬眠宿主、偶然（意外或死胡同）、连接或储库宿主。"
+  },
+  {
+    "category": "I",
+    "name": "Immunity 免疫",
+    "url": "",
+    "definition": "Immunity is a state in which a host is not susceptible to infection or disease.\n \n免疫是指宿主不易受到感染或患病的状态。"
+  },
+  {
+    "category": "I",
+    "name": "Incidence density sampling 发生密度抽样",
+    "url": "",
+    "definition": "With incidence density sampling (also known as risk set sampling) in a case-control study the selection of controls is governed by the diagnoses of cases. Every time a case is diagnosed one or more controls are selected from other members of the population at risk who, at that time, do not have the diagnosis.\n \n 在病例-对照研究中，发生密度抽样（也称风险集抽样）控制组的选择由病例的诊断情况决定。每当诊断出一个病例时，从群体中其他具有风险但在此时没有该病诊断的个体中选择一个或多个对照组。"
+  },
+  {
+    "category": "I",
+    "name": "Incidence proportion 新发病比例",
+    "url": "",
+    "definition": "Incidence proportion is defined as the number of new cases of disease that occur over a period of time divided by the number of individuals at risk at the beginning of the time period. An incidence proportion has no units. An incidence proportion usually refers to a period of time.\n \n 新发病比例是指一段时间内发生的新病例数除以该时间段开始时处于风险状态的个体数。新发病比例没有单位，通常是指一个时间段。"
+  },
+  {
+    "category": "I",
+    "name": "Incidence rate 新发病率",
+    "url": "",
+    "definition": "Incidence rate is defined as the total number of episodes of disease divided by the number of subject-days at risk. Incidence rate should be thought of as the `velocity' at which new cases of disease are occurring. Incidence rate is often expressed as the number of cases per 100 subject-years at risk. The incidence rate can't be interpreted in terms of probability of contracting a disease because it has no upper limit. Incidence rate can be used for the first occurrence of disease as well as multiple occurrences.\n \n新发病率是指疾病总发生次数除以风险期内的对象日数。新发病率应被视为新病例发生速度的“速度”。发生率通常表示为每100个风险期对象年的病例数。新发病率不能用于预测患病的概率，因为它没有上限。新发病率可用于首次发生疾病以及多次发生疾病。"
+  },
+  {
+    "category": "I",
+    "name": "Incidence risk 新发病风险",
+    "url": "",
+    "definition": "Incidence risk is usually restricted to the first occurrence of disease. The length of time of the period of study has a large influence on incidence risk: the longer the period, the greater the incidence risk. As a result the risk period must always be stated or defined when reporting its value.\n \n 新发病风险通常限于首次发生疾病。研究期限对新发病风险的影响很大：期限越长，新发病风险越大。因此，在报告其值时必须始终声明或定义风险期限。"
+  },
+  {
+    "category": "I",
+    "name": "Incidence risk ratio (relative risk) 新发病风险比（相对风险）",
+    "url": "sRR_s",
+    "definition": "The incidence risk ratio (relative risk) is defined as the incidence risk of the outcome of interest in the exposed population relative to the incidence risk of the outcome of interest in the non-exposed population. In practical terms, it provides an estimated of how many times more likely are exposed individuals likely to experience disease, relative to non-exposed individuals.\n \n新发病风险比（相对风险）定义为暴露群体中关注结果的发生风险与非暴露群体中关注结果的发生风险之比。在实际应用中，它提供了一个估计值，即相对于非暴露个体，暴露个体发生疾病的可能性增加了多少倍。"
+  },
+  {
+    "category": "I",
+    "name": "Incubation period 潜伏期",
+    "url": "",
+    "definition": "Incubation period refers to the period from infection to the development of symptomatic or clinical disease. The antilog of one standard deviation from the mean log incubation period has been called the dispersion factor (Sartwell 1950). The dispersion factor multiplied by the mean log of the incubation period will define an interval above which 16% of the intervals will fall, and the mean divided by the dispersion factor will define the period below which 16% will occur.\n \n潜伏期是指从感染到出现症状或临床疾病的时间段。平均对数潜伏期标准差的反对数称为离散系数（Sartwell 1950）。将离散系数乘以潜伏期的对数平均数将定义一个间隔，其中16％的间隔将落在该间隔之上，而平均数除以离散系数将定义发生在此间隔之下的期间。"
+  },
+  {
+    "category": "I",
+    "name": "Index case 指标病例",
+    "url": "",
+    "definition": "The index case is the first case identified with disease in an epidemic. The index case may not be the same as the primary case.\n \n 指标病例是流行病中首先发现有疾病的病例。指标病例可能与首发病例不同。"
+  },
+  {
+    "category": "I",
+    "name": "Induction period 诱发期",
+    "url": "",
+    "definition": "Induction period refers to the period between causal action and disease initiation.\n \n诱发期是指从因果行为到疾病启动的时间段。"
+  },
+  {
+    "category": "I",
+    "name": "Infectious period 传染期",
+    "url": "",
+    "definition": "The infectious period is the time period during which infecteds are able to transmit an infection to any susceptible host or vector they contact. Note that the infectious period may not necessarily be associated with symptoms or signs of disease.\n \n传染期是指感染者能够将感染传播给任何易感宿主或媒介的时间段。注意，传染期不一定与疾病症状或体征相关。"
+  },
+    {
+    "category": "I",
+    "name": "Inference",
+    "url": "",
+    "definition": "Inference is the process of extrapolating the findings of a given study to a larger population."
+  },
+  {
+    "category": "I",
+    "name": "Interaction 交互作用",
+    "url": "",
+    "definition": "When (statistical) interaction is present, the association between the exposure variable and the outcome variable differs between, or depends in some way on, the level of a third variable. That is, the third variable modifies the effect of the exposure variable on the outcome. Biological interaction involves a physical or chemical association and reaction, that may lead to synergism (the sum of the parts is greater than the effect of the parts in isolation). This relates to an identifiable stage in the causal pathway --- such as when two agents interact to increase pathogenicity.\n \n当存在（统计）交互作用时，暴露变量和结果变量之间的关联因第三个变量的水平不同或依赖于某种方式而不同。也就是说，第三个变量修改了暴露变量对结果的影响。生物交互作用涉及到物理或化学的关联和反应，可能导致协同作用（整体效应大于单独部分的效应）。这涉及到因果途径中可识别的阶段，例如两个因素相互作用增加致病性。"
+  },
+  {
+    "category": "I",
+    "name": "Internal validity 内部效度",
+    "url": "",
+    "definition": "Internal validity is the extent to which a piece of evidence supports a claim about cause and effect, within the context of a particular study.\n \n 内部效度是指一项证据在特定研究背景下支持因果关系主张的程度。"
+  },
+  {
+    "category": "I",
+    "name": "Interquartile range 四分位距",
+    "url": "",
+    "definition": "The interquartile range is a measure of the dispersion of a distribution based on the difference between the values of the third and first quartiles.\n \n 四分位距是一种基于第三个四分位值和第一个四分位值之间的差异来测量分布离散度的方法。"
+  },
+  {
+    "category": "I",
+    "name": "Intra-class correlation coefficient 组内相关系数",
+    "url": "",
+    "definition": "The intra-class correlation coefficient (ICC) allows us to quantify the degree of dependence or correlation between observations made within the same group. A low ICC means that most of the variation in the data with within the groups (i.e., there is very little clustering) whereas a high ICC means that the variation within a group is small relative to that between groups.\n \n 组内相关系数（ICC）允许我们量化在同一组内进行的观察之间的依赖或相关程度。较低的ICC意味着数据中大部分变异都在组内（即很少出现聚类），而较高的ICC意味着组内变异相对于组间变异很小。"
+  },
+  {
+    "category": "K",
+    "name": "Koch's postulates. Koch 定律",
+    "url": "",
+    "definition": "Koch's postulates are as follows: (1) The microbe of interest is present in all cases of disease but not in healthy individuals; (2) The microorganism must be isolated from a disease organism and grown in pure culture; (3) The cultured organism should cause disease when inoculated into a healthy individuals; and (4) The organism must be re-isolated from the experimental host and be identified as being the same as the inoculum.\n \nKoch's postulates are not valid for non-infectious diseases, multifactorial diseases, asymptomatic carriers, and infectious agents that can't be easily cultured (e.g., BSE and emerging agents for which we don't yet have culture methods.\n \nKoch定律如下：(1) 有关微生物存在于所有病例中，但在健康个体中不存在；(2) 必须从患病生物中分离出微生物，并在纯培养中生长；(3) 培养的微生物应在接种到健康个体时引起疾病；以及(4) 必须从实验宿主中重新分离出该微生物，并确定其与接种菌株相同。 Koch的定律不适用于非传染性疾病、多因素疾病、无症状携带者以及无法轻易培养的传染性病原体（例如，疯牛病和尚未具备培养方法的新发病原体）。"
+  },
+  {
+    "category": "L",
+    "name": "Latent period 传染潜伏期",
+    "url": "",
+    "definition": "Latent period refers to the time interval from infection to onset of infectiousness. Incubation period refers to the time interval from infection to onset of symptoms or clinical signs. The combined induction period and latent period is known as the empirical induction period.\n \n 传染潜伏期指从感染到传染性发作的时间间隔。潜伏期指从感染到症状或临床表现发作的时间间隔。将潜伏期和传染潜伏期结合起来称为实证潜伏期。"
+  },
+  {
+    "category": "L",
+    "name": "Least restrictive trade measures 最小限制的贸易措施",
+    "url": "",
+    "definition": "Member countries of the World Trade Organisation are required to adopt measures that are not more trade-restrictive than required to achieve their appropriate level of protection. This implies that when there are alternative ways to achieve an appropriate level of protection, a government should use those measures which are the least trade-restrictive, if technically and economically feasible. For example, if a country wants to avoid the introduction of an insect associated with fruit imports, requiring fumigation might be a less trade-restrictive alternative to a complete import ban.\n \n最小限制的贸易措施是指成员国应采取的措施不得比实现其适当的保护水平所需的措施更具有贸易限制性。这意味着当存在替代方法实现适当的保护水平时，政府应尽可能采用最不限制贸易的措施，如果在技术和经济上可行的话。例如，如果一个国家想避免引入与水果进口相关的昆虫，要求进行熏蒸可能是比完全禁止进口更不限制贸易的替代方案。"
+  },
+  {
+    "category": "L",
+    "name": "Level 水平",
+    "url": "",
+    "definition": "An experiment is usually carried out to study one or more variables. These variables are called factors in the experiment. Each factor may be investigated at several different `settings' (e.g., dose of drug). These settings are called the levels of the factor.\n \n实验通常用于研究一个或多个变量。这些变量在实验中被称为因素。每个因素可以在几个不同的“设置”（例如，药物剂量）下进行研究。这些设置被称为因素的水平。"
+  },
+  {
+    "category": "L",
+    "name": "Likelihood ratio 似然比",
+    "url": "",
+    "definition": "The likelihood ratio for a negative test tells us how likely we are to find a negative test result in a diseased individual compared with a negative test result in a non-diseased individual. The likelihood ratio for a negative test equals (1 - sensitivity) divided by the specificity.\n \n 负面检测的似然比告诉我们，在疾病患者和非疾病患者中，我们发现负面检测结果的可能性有多大。负面检测的似然比等于(1-敏感性)/ 特异性。"
+  },
+  {
+    "category": "L",
+    "name": "Local spread 局部传播",
+    "url": "",
+    "definition": "Local spread is defined as the short distance (generally 5 kilometres or less) spread of disease between locations when there is no clear linkage other than geographical proximity. 局部传播是指在地理接近但没有明显联系的地点之间疾病的短距离（通常为5公里或更少）传播。"
+  },
+  {
+    "category": "M",
+    "name": "M-bias M-偏倚",
+    "url": "",
+    "definition": "M-bias (also called collider stratification bias) is the bias introduced by adjusting for the effect of a variable due to a particular `M-structure' evident in a causal diagram.\n \n M-偏倚（也称为碰撞器分层偏倚）是由于因果图中特定的\"M-结构\"调整变量的效果引入的偏倚。"
+  },
+  {
+    "category": "M",
+    "name": "Marginal effects 边际效应",
+    "url": "",
+    "definition": "A marginal effect is the average effect of an exposure (e.g., treatment) on the population. A conditional effect is the average effect of an exposure on an individual. Estimated conditional and marginal effects can differ in certain situations. The most commonly encountered situations are when the exposure effect is expressed as an odds ratio or hazard ratio. Marginal and conditional estimates are equal with risk ratios or with linear regressions. The scenarios where marginal and conditional odds ratio or hazard ratio estimates differ are those when the difference between odds (or hazard) ratios and risk ratios are greatest. This will occur then the outcome is relatively common and the explanatory variables included in the regression model are highly predictive of the outcome.\n \n边际效应是暴露（例如治疗）对群体的平均影响。条件效应是暴露对个体的平均影响。在某些情况下，估计的条件和边际效应可能不同。最常见的情况是当暴露效应以比值比或风险比表示时。使用风险比或线性回归时，边际和条件估计相等。边际和条件比值比或风险比估计不同的情况，是当结果相对普遍并且回归模型中包含的解释变量高度预测结果时。"
+  },  
+  {
+    "category": "M",
+    "name": "Mathematical model 数学模型",
+    "url": "",
+    "definition": "Mathematical models can aid exploration of the behaviour of the system under various conditions from which to determine the dominant factors generating observed patterns and phenomena. They also aid data collection and interpretation and parameter estimation, and provide tools for identifying possible approaches to control and for assessing the potential impact of different intervention measures.\n \n 数学模型可以帮助探索系统在各种条件下的行为，以确定生成观察到的模式和现象的主要因素。它们还有助于数据收集和解释以及参数估计，并提供了识别可能控制方法和评估不同干预措施潜在影响的工具。"
+  },
+  {
+    "category": "M",
+    "name": "Mediator variable 中介变量",
+    "url": "",
+    "definition": "A mediator variable is a variable that explains (totally or partially) the relationship between an exposure and an outcome.\n \n中介变量是解释暴露和结果之间关系的变量（完全或部分）。"
+  },
+  {
+    "category": "M",
+    "name": "Mode 众数",
+    "url": "",
+    "definition": "The mode is the value that occurs with the greatest frequency.\n \n众数是出现频率最高的值。"
+  },
+  {
+    "category": "M",
+    "name": "Modelling, real time 实时建模",
+    "url": "",
+    "definition": "Real time disease modelling involves the simulation of disease spread over place and time while an outbreak is actually taking place.\n \n 实时疾病建模涉及在实际发生暴发时模拟疾病传播的过程和时间。"
+  },
+  {
+    "category": "M",
+    "name": "Modelling, hybrid 混合建模",
+    "url": "",
+    "definition": "Hybrid modelling refers to a modelling comprised of both mathematical and simulation elements.\n \n混合建模指由数学和模拟元素组成的建模。"
+  }, 
+  {
+    "category": "M",
+    "name": "Modelling, mathematical 数学建模",
+    "url": "",
+    "definition": "Mathematical modelling refers to the process of creating a mathematical representation of a real-world scenario to make a prediction or provide insight.\n \n 数学建模是指创建一个数学表示真实世界情景的过程，以进行预测或提供洞察。"
+  }, 
+  {
+    "category": "M",
+    "name": "Modelling, simulation 模拟建模",
+    "url": "",
+    "definition": "Simulation modelling breaks a real-world scenario (e.g., the spread of disease in a population) into a series of steps, uses computer code to create a digital prototype of each step and provides an estimate of the behaviour of the scenario by executing each prototype step in a defined, sequential order.\n \n 模拟建模将真实世界情景（例如，人群中疾病的传播）分解为一系列步骤，使用计算机代码创建每个步骤的数字原型，并通过按照定义的顺序执行每个原型步骤来提供情景行为的估计。"
+  }, 
+  {
+    "category": "M",
+    "name": "Monitoring 监视",
+    "url": "",
+    "definition": "To monitor something means to be aware of the state of a system.\n \n监视某物意味着了解该系统的状态。"
+  },
+  {
+    "category": "M",
+    "name": "Morbidity 发病率",
+    "url": "",
+    "definition": "Morbidity is defined as any departure, subjective or objective, from a state of physiological or psychological well-being.\n \n发病率被定义为主观或客观有任何偏离生理或心理健康的状态。"
+  },
+  {
+    "category": "M",
+    "name": "Multivariate and multivariable analysis 多变量分析",
+    "url": "",
+    "definition": "Multivariate analysis is an analysis where there are multiple outcome variables (e.g., MANOVA). Multivariable analysis is an analysis where there are many explanatory variables. In epidemiology it is very common to do a univariate, multivariable analysis. That is, an analysis where there is one outcome variable and many explanatory variables.\n \n 多变量分析是存在多个结果变量（例如，MANOVA）的分析。多变量分析是存在许多解释变量的分析。在流行病学中，通常进行单变量，多变量分析。也就是说，进行有一个结果变量和许多解释变量的分析。"
+  },
+  {
+    "category": "N",
+    "name": "Nominal variables 名义变量",
+    "url": "",
+    "definition": "Nominal variables are variable where numbers are used to indicate labels for categories. Disease status might be coded 0 = no, 1 = yes. Race might be coded 1 = white, 2 = black, 3 = Hispanic, 4 = Asian, 5 = other.\n \n名义变量是指使用数字表示类别标签的变量。例如，疾病状态可以编码为0=无，1=有；种族可以编码为1=白人，2=黑人，3=西班牙裔，4=亚洲人，5=其他。"
+  },
+  {
+    "category": "N",
+    "name": "Number needed to treat 治疗需要数",
+    "url": "sNNT_s",
+    "definition": "The number needed to treat (NNT) equals the inverse of the attributable risk. Depending on the outcome of interest we use different labels for NNT. When dealing with an outcome that is `desirable' (e.g., treatment success) we call NNT the number needed to treat for benefit, NNTB. NNTB equals the number of subjects who would have to be exposed to result in a single (desirable) outcome. When dealing with an outcome that is `undesirable' (e.g., death) we call NNT the number needed to treat for harm, NNTH. NNTH equals the number of subjects who would have to be exposed to result in a single (undesirable) outcome.\n \n治疗需要数（NNT）等于可归因风险的倒数。根据感兴趣的结果，我们使用不同的标签来表示NNT。当涉及到“有益”的结果时（例如，治疗成功），我们称NNT为受益的治疗需要数（NNTB）。NNTB等于需要接受治疗的个体数，以产生一个（有益的）结果。当涉及到“不良”的结果时（例如，死亡），我们称NNT为伤害的治疗需要数（NNTH）。NNTH等于需要接受治疗的个体数，以产生一个（不良的）结果。"
+  },
+  {
+    "category": "O",
+    "name": "Objective 目标",
+    "url": "",
+    "definition": "Decision rules are structured in the context of a specific objective. The nature of the objective and how it is viewed by decision makers (i.e., their motives) will serve as a strong guiding force in the development of a specific decision rule. An objective is the perspective that serves to guide the structuring of decision rules.\n \n 决策规则是在特定目标的背景下制定的。目标的性质以及决策者如何看待它（即他们的动机）将成为制定特定决策规则的有力指导力。目标是指用于指导决策规则的视角。"
+  },
+  {
+    "category": "O",
+    "name": "Odds 发生几率",
+    "url": "",
+    "definition": "Odds equals the ratio of the probability of occurrence of an event to that of non-occurrence.\n \n发生几率等于事件发生的概率与不发生的概率之比。"
+  },
+  {
+    "category": "O",
+    "name": "Odds ratio 比值比",
+    "url": "OR_s",
+    "definition": "The odds ratio is defined as the odds of the outcome of interest in the exposed population relative to the odds of the outcome of interest in the non-exposed population. In practical terms, it provides an estimated of how many times more likely are exposed individuals likely to experience disease, relative to non-exposed individuals. When the outcome of interest is rare the odds ratio provides a good approximation of the incidence risk ratio.\n \n比值比被定义为暴露群体中所关注结果的发生几率比上未暴露群体中所关注结果的发生几率。在实际情况中，它提供了一个估计，即相对于未暴露的个体，暴露的个体发生疾病的可能性增加了多少倍。当关注结果很罕见时，比值比提供了关于发生几率比例的良好近似值。"
+  },
+  {
+    "category": "O",
+    "name": "One Health 同一健康",
+    "url": "",
+    "definition": "One Health is defined as the collaborative, multidisciplinary effort to attain optimal health for people, animals and the environment.\n \n 同一健康是指为了达到人类、动物和环境的最佳健康而进行的协作、多学科努力。"
+  },
+  {
+    "category": "O",
+    "name": "One Medicine 同一医学",
+    "url": "",
+    "definition": "The concept of One Medicine embodies the view that human and veterinary medicine are dependent on an overlapping collection of biological characteristics, technologies and research discoveries.\n \n同一医学的概念体现了人类医学和兽医学是依赖于一系列重叠的生物特征、技术和研究发现的观点。"
+  },
+  {
+    "category": "O",
+    "name": "Ordinal variables 有序变量",
+    "url": "",
+    "definition": "With ordinal variables numbers are used to indicate rank ordering. Example: 0 = non-smoker, 1 = light smoker, 2 = moderate smoker, 3 = heavy smoker.\n \n 使用有序变量时，数字用于表示排名顺序。例如：0 = 非吸烟者，1 = 轻度吸烟者，2 = 中度吸烟者，3 = 重度吸烟者。"
+  },
+  {
+    "category": "O",
+    "name": "Outliers 异常值",
+    "url": "",
+    "definition": "A variable is considered as an outlier when the addition of the data point contradicts the relationship evident from the remainder of the data points.\n \n 当数据点的添加与其余数据点所显示的关系相矛盾时，该变量被认为是异常值。"
+  },
+  {
+    "category": "P",
+    "name": "P-value P 值",
+    "url": "",
+    "definition": "The P-value is the probability of obtaining a result at least as extreme as the one that was actually observed, assuming the null hypothesis is true. If P is large, we conclude that the data are consistent with the null hypothesis (i.e., that there are no differences among groups). Note that this is not the same as saying that the null hypothesis is true. The null hypothesis may actually be false but there might have been insufficient numbers of subjects in the study to detect departure from the null hypothesis. If P is small, we conclude that there's a low probability that we will have observed this data if the null hypothesis was in fact true.\n \nP 值是指在零假设成立的情况下获得的结果至少与实际观察到的结果一样极端的概率。如果 P 值很大，我们得出结论认为数据与零假设一致（即在组之间没有差异）。注意这并不意味着零假设是正确的。实际上，零假设可能是错误的，但是研究中的受试者数量可能不足以检测与零假设的偏离。如果 P 值很小，我们得出结论认为在零假设为真的情况下，我们观察到这些数据的可能性很小。"
+  },
+  {
+    "category": "P",
+    "name": "Pathogenicity 致病性",
+    "url": "",
+    "definition": "Pathogenicity is a term applied to infectious diseases to describe the ability of an agent to induce clinical disease, after infection has occurred. \n \n致病性是应用于传染性疾病的术语，用于描述病原体诱发临床疾病的能力，这种能力在感染发生后会表现出来。"
+  },
+  {
+    "category": "P",
+    "name": "Period prevalence proportion 周期流行率比例",
+    "url": "",
+    "definition": "Period prevalence proportion is defined as the number of affected individuals in a population plus a count of new cases over a defined period of time divided by the size of the population under consideration. This measure of disease frequency is not often used since it combines measures of both prevalence and incidence.\n \n 周期流行率比例定义为在一定时间内受影响的个体数加上新发病例的计数，除以所考虑的群体的大小。由于该疾病频率的测量结合了流行率和新发病率的测量，因此该测量不常用。"
+  },
+  {
+    "category": "P",
+    "name": "Point prevalence proportion 点流行率比例",
+    "url": "",
+    "definition": "Point prevalence proportion is defined as the number of affected individuals at a specific point in time divided by the size of the population under consideration. This measure of disease frequency is not a rate.\n \n点流行率比例定义为特定时间点患病的个体数除以所考虑群体的大小。这种疾病频率的测量不是率。"
+  },
+  {
+    "category": "P",
+    "name": "Population 群体",
+    "url": "populations",
+    "definition": "A population is defined as the total set of actual or possible values of the variable of interest. The source population is a collection of individuals from which individuals eligible for study will be sought. The eligible population is a subset of the source population who meet a defined set of study inclusion (i.e., eligibility) criteria. The study population is a subset of the eligible population from which the study data have been obtained. Ideally, all members of the eligible population should form the study population, however losses due to non-participation frequently occur. Losses due to non-participation have to be considered carefully as they are likely to be non-random and the reasons for the losses may be related to the exposure or the outcome. The important issue is not whether members of the study populations are `typical', but whether the association between outcome and exposure given by this group is likely to apply to other groups.\n \n一个群体被定义为感兴趣的变量的实际或可能值的总体集合。源群体是一组个体，从中寻找符合研究资格的个体。符合研究资格的个体是满足一组定义好的研究纳入标准的源群体的子集。研究群体是从符合研究资格的个体中获得研究数据的子集。理想情况下，所有符合研究资格的个体应该形成研究群体，但是由于非参与导致的损失经常会发生。非参与导致的损失必须认真考虑，因为它们很可能是非随机的，并且损失的原因可能与暴露或结果有关。重要问题不是研究群体的成员是否“典型”，而是给出该群体的结果和暴露之间的关联是否可能适用于其他群体。"
+  },
+  {
+    "category": "P",
+    "name": "Population attributable fraction 群体可归因系数",
+    "url": "sPAF_s",
+    "definition": "The population attributable fraction (PAF) quantifies the proportion of disease in the population that is due to exposure. Many diseases are caused by multiple risk factors, and individual risk factors may interact in their impact on overall risk of disease. As a result, PAFs for individual risk factors often overlap and can add up to more than 100 percent.\n \n 群体可归因系数（PAF）量化了由暴露引起的群体中的疾病比例。许多疾病由多个风险因素引起，而单个风险因素可能在对总体疾病风险的影响相互作用。因此，单个风险因素的PAF通常重叠，并且可以加起来超过100％。"
+  },
+  {
+    "category": "P",
+    "name": "Population attributable risk 群体可归因风险",
+    "url": "sPAR_s",
+    "definition": "The population attributable risk provides a measure of the additional risk of disease due to exposure, among the population.\n \n群体可归因风险提供了在群体中由于暴露而导致的疾病额外风险的测度。"
+  },
+  {
+    "category": "P",
+    "name": "Population, closed 封闭群体",
+    "url": "",
+    "definition": "A closed population is a population that is not able to recruit and lose members over time.\n \n封闭群体是一个不能随时间招募和失去成员的群体。"
+  },
+  {
+    "category": "P",
+    "name": "Population, eligible 符合研究资格群体",
+    "url": "populations",
+    "definition": "An eligible population is a subset of the source population who meet a defined set of study inclusion (i.e., eligibility) criteria.\n \n 符合研究资格群体是满足一组定义好的研究纳入标准的源群体的子集。"
+  },
+  {
+    "category": "P",
+    "name": "Population, open 开放群体",
+    "url": "",
+    "definition": "An open population is a population that is able to recruit and lose members over time.\n \n开放群体是一个可以随时间招募和失去成员的群体。"
+  },
+  {
+    "category": "P",
+    "name": "Population, source 源群体",
+    "url": "populations",
+    "definition": "A source population is a collection of individuals from which individuals eligible for study will be sought.\n \n源群体是一组从中寻找符合研究资格的个体。"
+  },
+  {
+    "category": "P",
+    "name": "Population, study 研究群体",
+    "url": "populations",
+    "definition": "A study population is a subset of the eligible population from which the study data have been obtained. Ideally, all members of the eligible population should form the study population, however losses due to non-participation frequently occur. Losses due to non-participation have to be considered carefully as they are likely to be non-random and the reasons for the losses may be related to the exposure or the outcome. The important issue is not whether members of the study populations are `typical', but whether the association between outcome and exposure given by this group is likely to apply to other groups.\n \n研究群体是一个从符合研究纳入标准的可选群体中获得研究数据的子集。理想情况下，所有符合纳入标准的个体都应该构成研究群体，但由于非参与原因，常常出现损失。由于非参与原因可能是非随机的，而且这些原因可能与暴露或结果有关，因此必须仔细考虑这些损失。重要的问题不是研究群体中的个体是否“典型”，而是这个群体所给出的结果和暴露之间的关联是否可能适用于其他群体。"
+  },
+  {
+    "category": "P",
+    "name": "Population, target 目标群体",
+    "url": "",
+    "definition": "The target population is a collection of individuals of restricted interest from which one has sampled about which one wishes to make statistical inferences with respect to a study objective.\n \n目标群体是一组有限的个体集合，从中抽样以便对研究目标做出统计推断。"
+  },
+  {
+    "category": "P",
+    "name": "Predictive value, positive 阳性预测",
+    "url": "",
+    "definition": "Positive predictive value (PPV) is the proportion of subjects with positive test results which have the disease. That is:\n \nPPV = (Tpos | Dpos) ÷ (Tpos | Dpos + Tpos|Dneg)\n \nAlternatively, if true prevalence (TP), diagnostic sensitivity (Se) and diagnostic specificity (Sp) are known:\n \nPPV = [TP × Se] ÷ [(TP × Se) + (1 - TP) × (1 - Sp)] \n \n 阳性预测值（PPV）是指具有阳性测试结果且实际上患有疾病的受试者所占的比例。计算公式如下：\n \n PPV = (检测阳性数 | 患病阳性数) ÷ (检测阴性数 | 患病阳性数 + 检测阴性数 | 患病阴性数) \n \n 或者，如果已知真实患病率（TP）、诊断敏感性（Se）和诊断特异性（Sp）\n \n PPV = [TP × Se] ÷ [(TP × Se) + (1 - TP) × (1 - Sp)]"
+  },
+  {
+    "category": "P",
+    "name": "Predictive value, negative 阴性预测值",
+    "url": "",
+    "definition": "Negative predictive value (NPV) is the proportion of subjects with negative test results which do not have the disease. That is:\n \nNPV = (Tneg | Dneg) ÷ (Tneg | Dpos + Tneg | Dneg)\n \n Alternatively, if true prevalence (TP), diagnostic sensitivity (Se) and diagnostic specificity (Sp) are known:\n \nNPV = [(1 - TP) × Sp] ÷ [TP × (1 - Se) + (1 - TP) × Sp] \n \n 阴性预测值（NPV）是指测试结果为阴性但实际上没有患病的受试者所占的比例。计算公式如下：\n \n NPV = (检测阴性数 | 患病阴性数) ÷ ( 检测阴性数| 患病阳性数 + 检测阴性数 | 患病阴性数) \n \n 或者，如果已知真实患病率（TP）、诊断敏感性（Se）和诊断特异性（Sp）\n \n NPV = [(1 - TP) × Sp] ÷ [TP × (1 - Se) + (1 - TP) × Sp]"
+  },
+  {
+    "category": "P",
+    "name": "Precautionary principle 预防原则",
+    "url": "",
+    "definition": "The precautionary principle is a notion which supports taking protective action before there is complete scientific proof of a risk. That is, action should not be delayed simply because full scientific information is lacking.\n \n预防原则是一个概念，支持在完全证实风险之前采取保护行动。也就是说，行动不应仅仅因为缺乏完整的科学信息而延迟。"
+  },
+  {
+    "category": "P",
+    "name": "Precision 精确性",
+    "url": "random_systematic_error",
+    "definition": "A measurement or observation that is precise is one in which the same or similar value is obtained when the measurement or observation is repeated. In the plot below the two plots to the right show greater precision than the two plots to the left.\n \n精确的测量或观察是指在重复测量或观察时获得相同或相似的值。在下面的图表中，右侧的两个图表显示比左侧的两个图表更精确。"
+  },
+  {
+    "category": "P",
+    "name": "Prediction interval 预测区间",
+    "url": "",
+    "definition": "A prediction interval is an estimate of an interval in which a future observation will fall, with a certain confidence level, given the observations that were already observed. For a 95% prediction interval we can state that if we would repeat our sampling process infinitely, 95% of the constructed prediction intervals would contain the new observation.\n \n 预测区间是对未来观察值可能落入的一个区间的估计，给定已经观察到的观察值和某个置信水平。对于95%的预测区间，我们可以说，如果我们重复采样过程无数次，那么95%的构建预测区间将包含新观察值。"
+  },
+  {
+    "category": "P",
+    "name": "Prevalence 流行率",
+    "url": "",
+    "definition": "Prevalence is defined as the number of individuals with a given disease at a given point in time divided by the population at risk at that point in time. Because prevalence does not involve a period of time, it is a proportion.\n \n流行率定义为某一时刻患有某种疾病的个体数与该时刻的患病群体总数之比。因为流行率不涉及时间段，所以它是一个比例。"
+  },
+  {
+    "category": "P",
+    "name": "Prevalence, apparent 表观流行率",
+    "url": "",
+    "definition": "The apparent prevalence is the proportion of all individuals that return a positive test result.\n \n表观流行率是所有测试结果为阳性的个体比例。"
+  },
+  {
+    "category": "P",
+    "name": "Prevalence, true 真实流行率",
+    "url": "",
+    "definition": "True prevalence is the true portion of individuals with a given disorder in a population as determined by a gold standard test.\n \n 真实流行率是使用黄金标准检测法确定的一个群体中具有特定疾病的真实比例。"
+  },
+  {
+    "category": "P",
+    "name": "Primary case 首发病例",
+    "url": "",
+    "definition": "The primary case in an infectious disease outbreak is the first case infected identified with disease. The primary case is not necessarily the same as the index case.\n \n 传染病暴发中的首发病例是首个被诊断感染该疾病的病例，与指示病例不一定相同。"
+  },
+  {
+    "category": "P",
+    "name": "Proportion 比例",
+    "url": "",
+    "definition": "A proportion is the number of observations with a given characteristic divided by the total number of observations in a given group. A proportion is always defined as a part divided by the whole and is useful for ordinal and numerical data.\n \n比例是具有给定特征的观察值数量除以给定组中的总观察值数量。比例总是被定义为整体中的一部分，对有序和数字数据很有用。"
+  },
+  {
+    "category": "R",
+    "name": "R0 基本再生数",
+    "url": "",
+    "definition": "R0 (the basic reproduction number) is defined as the number of individuals infected by a single infective in a population of susceptibles during one infectious period, assuming homogenous mixing.\n \nR0（基本再生数）被定义为在病原体存在的总易感群体中在一个传染期内由单个感染者感染的数量，假设混合均匀。"
+  },
+  {
+    "category": "R",
+    "name": "Randomised control trial 随机对照试验",
+    "url": "",
+    "definition": "A randomised control trial is an epidemiological experiment in which subjects in a population are randomly allocated into groups, usually called treatment and control groups, to receive or not to receive an experimental preventive or therapeutic procedure, manoeuver, or intervention.\n \n 随机对照试验是一种流行病学实验，在该实验中，群体中的受试者被随机分配到接受或不接受实验性预防或治疗程序、操作或干预的治疗组和对照组中。"
+  },
+  {
+    "category": "R",
+    "name": "Range 范围",
+    "url": "",
+    "definition": "The range is defined as the difference between the smallest and the largest observation.\n \n范围被定义为最小观察值与最大观察值之间的差异。"
+  },
+  {
+    "category": "R",
+    "name": "Ratio 比率",
+    "url": "",
+    "definition": "A ratio is the number of observations in a given group with a given characteristic divided by the number of observations without the given characteristic. A ratio is always defined as a part divided by another part.\n \n比率是具有给定特征的观察值数量除以不具有该特征的观察值数量。比率总是被定义为一部分除以另一部分。"
+  },
+  {
+    "category": "R",
+    "name": "Repeated survey 重复调查",
+    "url": "",
+    "definition": "A repeated survey is a survey carried out more than once, mostly with regular frequency, for example monthly, quarterly, or annually.\n \n 重复调查是一项进行多次的调查，通常具有固定的频率，例如每月、每季度或每年进行一次。"
+  },
+  {
+    "category": "R",
+    "name": "Reservoir population 自然宿主群体",
+    "url": "",
+    "definition": "A reservoir population, also known as a disease reservoir or a reservoir of infection, is the population of organisms or the specific environment in which an infectious pathogen naturally lives and reproduces, or upon which the pathogen primarily depends for its survival. A reservoir is usually a living host of a certain species, such as an animal or a plant, inside of which a pathogen survives, often (though not always) without causing disease for the reservoir itself.\n \n自然宿主群体也称疾病储备库或感染储备库，是一种生物体群体或特定环境，在其中一种传染病原体自然生存和繁殖，或者该病原体主要依赖于其生存的群体。储备通常是某个物种的生命体内，例如动物或植物，其中病原体存活，但通常不会导致储备本身患病。"
+  },
+  {
+    "category": "R",
+    "name": "Review, systematic 系统性回顾",
+    "url": "",
+    "definition": "A systematic review identifies, selects and critically appraises research in order to answer a clearly defined question (e.g., the prevalence-incidence of disease, questions related to aetiology, intervention efficacy and diagnostic test accuracy).\n  \nA systematic review should follow a clearly defined protocol or plan where the criteria for study inclusion is clearly stated before the review is conducted. It is a comprehensive, transparent search conducted over multiple databases and grey literature that can be replicated and reproduced by other researchers. A systemic review identifies the type of information searched, critiqued and reported within known time frames. The search terms, search strategies (including database names, platforms, dates of search) and limits should be documented in the review. \n \n 系统性回顾旨在识别、选择和批判性评估以往的研究，以回答明确定义的问题（例如，疾病的流行率-发病率，与病因、干预效果和诊断测试准确性相关的问题）。\n \n 系统性回顾应该遵循明确定义的方案或计划，其中在进行回顾之前需明确说明了研究纳入的标准。它是在多个数据库和灰色文献上进行的全面、透明的搜索，可以由其他研究人员复制和再现。系统性回顾确定了在已知的时间范围内搜索、评论和报告的信息类型。搜索词、搜索策略（包括数据库名称、平台、搜索日期）和限制条件应在回顾中进行记录。"
+  },
+  {
+    "category": "R",
+    "name": "Review, narrative 叙述性综述",
+    "url": "",
+    "definition": "A narrative review is a comprehensive and critical analysis of the current knowledge on a topic.\n \nCompared with scoping and systematic reviews, study inclusion criteria and the level of critique of the studies included in a narrative review are not defined. \n \n 叙述性综述是对某一主题当前知识的全面且批判性的分析。\n \n 与范围性综述和系统性综述相比，叙述性综述中的研究纳入标准和对包括在内的研究的批判程度没有明确定义。"
+  },
+    {
+    "category": "R",
+    "name": "Review, scoping 范围行综述",
+    "url": "",
+    "definition": "A scoping review clarifies concepts and identifies the existing literature on a specific research question.\n \nScoping reviews help to inform future research by identifying gaps in the existing literature and identifying areas where there may be a sufficient depth of literature to warrant a systematic review. \n \n 范围行综述澄清概念，确定了特定研究问题的现有文献。\n \n 范围行综述有助于通过确定现有文献中的空白，识别可能有足够深度文献以进行系统性综述的领域，来为未来的研究提供信息。"
+  },
+  {
+    "category": "R",
+    "name": "Risk factor 风险因素",
+    "url": "",
+    "definition": "Risk factors are antecendents of adverse health outcomes that remain associated with the outcomes after adjustment for measured potential confounders.\n \n 风险因素是有害健康结果的先决条件，在调整了测量到的潜在混杂因素后仍与结果相关联。"
+  },
+    {
+    "category": "R",
+    "name": "Rogan-Gladen estimator Rogan-Gladen 估算器",
+    "url": "",
+    "definition": "If the sensitivity (Se) and specificity (Sp) of a diagnostic test are known, apparent prevalence (AP) can be converted to true prevalence (TP) using the Rogan Gladen estimator (Rogan and Gladen 1978).\n \nThe Rogan-Gladen estimate of true prevalence is given by:\n \n TP = (AP + Sp - 1) ÷ (Se + Sp - 1).\n \nIf AP is less than (1 - Se) the Rogan Gladen estimate of TP will be less than zero.\n \nIf AP is greater than Se the Rogan Gladen estimate of TP will be greater than one.\n \nWhen the Rogan-Gladen estimate of TP lies outside of the 0 to 1 range Bayesian methods are required to estimate true prevalence.\n  \n 如果已知诊断测试的敏感性（Se）和特异性（Sp），则可以使用Rogan和Gladen（1978年）提出的Rogan-Gladen估算器将表观流行率（AP）转换为真实流行率（TP）。\n \n Rogan-Gladen估算器的真实患病率计算公式如下：\n \n  TP =（AP + Sp - 1）÷（Se + Sp - 1）。\n \n 如果AP小于（1 - Se），则Rogan-Gladen估算的TP将小于零。\n \n 如果AP大于Se，则Rogan-Gladen估算的TP将大于1。\n \n 当Rogan-Gladen估算的TP超出0到1的范围时，需要使用贝叶斯方法来估算真实患病率。\n \n Rogan W, Gladen B (1978). Estimating prevalence from results of a screening test. American Journal of Epidemiology 107: 71 - 76."
+  },
+  {
+    "category": "S",
+    "name": "Sample 样本",
+    "url": "",
+    "definition": "A sample is a collection of individuals taken from a larger population that is under investigation, on the assumption that they represent the characteristics of the entire population.\n \n样本是从正在调查的更大总体中选取的一组个体，假定它们代表整个总体的特征。"
+  },
+  {
+    "category": "S",
+    "name": "Sampling frame 抽样框架",
+    "url": "",
+    "definition": "A sampling frame is a means of selecting sample units. It is formed so that every unit of interest within the study population has the same chance of being selected. In its simplest form the sampling frame is a list of all individuals within a population (e.g., animals or farms). Occasionally a list does not exist and a sampling frame must be defined by other means. A sampling frame is a procedure for identifying all the population elements or members. The sampling frame must provide a means by which all members of the study population have an equal chance of being selected into the sample. An example of a sampling frame that does not use a list of all study population members is area sampling. Area sampling relies on the association that each element of a population has with a particular geographical area. A sampling frame of areas (regions) is compiled and a selection of areas is made. Now, all units (e.g., farms, or animals within farms) within the selected areas are taken to form the sample.\n \n抽样框架是选择样本单位的一种方法。它是为了使研究总体中感兴趣的每个单位有同样的被选中机会而形成的。在其最简单的形式中，抽样框架是一个列出了总体内所有个体（例如动物或农场）的清单。偶尔，列表不存在，必须通过其他方式定义抽样框架。抽样框架是识别所有总体元素或成员的过程。抽样框架必须提供一种方法，使研究总体的所有成员都有同等被选入样本的机会。不使用所有研究总体成员列表的抽样框架的示例是区域抽样。区域抽样依赖于每个人口要素与特定地理区域的关联。编制区域（地区）的抽样框架并进行区域选择。现在，选择的所有单位（例如农场或农场内的动物）都将被选为样本。"
+  },
+  {
+    "category": "S",
+    "name": "Sampling unit 抽样单元",
+    "url": "",
+    "definition": "A sampling unit is each member of the sampling frame. The sampling unit is the unit of interest: these can be either individuals (animals) or households (farms). In some sampling techniques, more than one sampling unit is collected. This can occur when the sampling units are in a hierarchical arrangement. An example would be the sampling of farms (primary sampling units, PSUs) and then the sampling of animals within farms (secondary sampling units, SSUs). The sampling fraction is the ratio of sample size to the size of the study population.\n \n抽样单元是抽样框架的每个成员。抽样单元是所关注的单元：这些可以是个体（动物）或家庭（农场）。在某些抽样技术中，会收集多个抽样单元。当抽样单元处于分层排列时，就会发生这种情况。例如，对农场（主要抽样单位，PSUs）进行抽样，然后对农场内的动物（次要抽样单位，SSUs）进行抽样。抽样分数是样本大小与研究总体大小的比率。"
+  },
+  {
+    "category": "S",
+    "name": "Second order effects 二阶效应",
+    "url": "",
+    "definition": "Second order effects result from the spatial correlation or spatial dependence of a process. Second order effects describe the tendency for deviation in values of the process from its mean to `follow' each other in neighboring sites -- local or small scale effects.\n \n 二阶效应由过程的空间相关性或空间依赖性产生。二阶效应描述了过程值从其均值偏离时在相邻站点-局部或小尺度效应中彼此“跟随”的趋势。"
+  },
+  {
+    "category": "S",
+    "name": "Secondary attack rate 二次攻击率",
+    "url": "",
+    "definition": "Secondary attack rate is the number of cases of an infection that occur among contacts within the incubation period following exposure to a primary case in relation to the total number of exposed contacts. The denominator is restricted to susceptible contacts when these can be determined. The secondary attack rate provides a measure of contagiousness and is useful in evaluating the effect of control measures. \n \n二次攻击率是在暴露于初次病例后的潜伏期内，与感染者接触而发生感染的病例数与总接触人数的比率。当可以确定易感接触者时，分母会被限制为易感接触者。二次攻击率提供了一种测量传染性的方法，并有助于评估控制措施的效果。"
+  },
+  {
+    "category": "S",
+    "name": "Sensitivity, analytical",
+    "url": "",
+    "definition": "Analytical sensitivity (as opposed to diagnostic sensitivity) is the smallest amount of substance in a sample that can accurately be measured by an assay.\n \n 分析灵敏度（与诊断灵敏度不同）是可以通过试验准确测量出样本中最小物质的量。"
+  },
+  {
+    "category": "S",
+    "name": "Sensitivity, diagnostic 敏感性",
+    "url": "",
+    "definition": "The sensitivity of a diagnostic test is defined as the proportion of subjects with disease that test positive [p(T+|D+)]. A sensitive test will rarely misclassify individuals with disease. Sensitivity is a measure of accuracy for predicting events.\n \n诊断试验的敏感性被定义为患病者测试呈阳性的比例 [p(T+|D+)]。敏感性高的试验很少会将患病个体误分类。敏感性是预测事件准确性的一种度量。"
+  },
+  {
+    "category": "S",
+    "name": "Serial interval 串联时间间隔",
+    "url": "",
+    "definition": "Serial intervals can vary widely, especially for some lifelong diseases (HIV infection, chickenpox, herpes). The serial interval for SARS was 7 days. For COVID-19, a review of the published literature shows serial interval estimates to be 4 to 8 days.\n \n串联时间间隔可能会有很大的变异，特别是对于一些终身疾病（HIV感染、水痘、疱疹）。 SARS的串联间隔为7天。针对COVID-19的发表文献的综述显示，串联时间间隔的估计值为4到8天。"
+  },
+  {
+    "category": "S",
+    "name": "Simpson's paradox Simpson 悖论",
+    "url": "",
+    "definition": "Simpson's paradox is used to describe the situation where a measure of association may reverse direction after stratifying by a third variable. In epidemiology Simpson's paradox has been presented as a form of confounding in which the presence of a confounding variable changes the direction of an association. \n \nSimpson悖论用于描述在通过第三个变量分层后，相关性的测量可能会反向。在流行病学中，Simpson悖论被提出作为混杂的一种形式，在该混杂变量存在的情况下，会改变相关性的方向。"
+  },
+  {
+    "category": "S",
+    "name": "Simulation model 模拟模型",
+    "url": "",
+    "definition": "Simulation modeling is the process of creating and analysing a digital prototype of a physical or biological system to predict its performance in the real world.\n \n 模拟是创建和分析物理或生物系统的数字原型以预测其在现实世界中性能的过程。"
+  },
+  {
+    "category": "S",
+    "name": "Specificity, diagnostic 特异性",
+    "url": "",
+    "definition": "The specificity of a diagnostic test is defined as the proportion of subjects without the disease that test negative [p(T-|D-)]. A highly specific test will rarely misclassify individuals without disease.\n \n诊断试验的特异性被定义为没有疾病的受试者测试阴性的比例 [p(T-|D-)]。高度特异的试验很少会将没有疾病的个体误分类。"
+  },
+  {
+    "category": "S",
+    "name": "Standard deviation 标准差",
+    "url": "",
+    "definition": "The standard deviation of a sample is symbolised by s or SD. The standard deviation of a population is symbolised by ?. For variables that are normally distributed the mean ± 2? encompasses 95% of the population's values. The standard deviation tells you about the dispersion or variability of results and is used to describe observations. The standard error of the mean is used to describe the population under investigation, or to test a hypothesis.\n \n标准差的样本记号为 s 或 SD。总体标准差的符号为 σ。对于正态分布的变量，均值加减两个标准差（mean ± 2σ）包含了95%的总体值。标准差告诉你有关结果的分散或变异性，并用于描述观察值。标准误差用于描述所研究的总体或测试假设。"
+  },
+  {
+    "category": "S",
+    "name": "Standard error of mean 标准误差",
+    "url": "",
+    "definition": "The standard deviation tells you about the dispersion or variability of results and is used to describe observations. The standard error of the mean is used to describe the population under investigation, or to test a hypothesis.\n \n标准差告诉你有关结果的分散或变异性，并用于描述观察值。而标准误差用于描述所研究的总体或测试假设。"
+  },
+  {
+    "category": "S",
+    "name": "Standstill 封锁",
+    "url": "",
+    "definition": "Standstill is the restriction of movements of susceptible individuals (for a particular disease, such as foot-and-mouth disease) onto and off premises as part of disease control efforts.\n \n封锁是为了控制某种疾病（例如口蹄疫）的传播而限制易感群体进出某个场所/地点的移动。"
+  },
+  {
+    "category": "S",
+    "name": "Statistical power 统计效度",
+    "url": "",
+    "definition": "The power of a statistical test is the probability that the test will reject the null hypothesis when the null hypothesis is false (i.e., that it will not make a Type II error, or a false negative decision). As statistical power increases, the chances of a Type II error occurring decrease. The probability of a Type II error occurring is referred to as the false negative rate (b). Therefore power is equal to 1 - b, which is also known as the sensitivity.\n \n统计效度是指当原假设为假时，检验拒绝原假设的概率（即不会产生Ⅱ型错误或假阴性的决策）。随着统计效度的增加，Ⅱ型错误发生的机会就会减少。Ⅱ型错误发生的概率被称为假阴性率（b），因此功效等于1-b，这也被称为灵敏度。"
+  },
+  {
+    "category": "S",
+    "name": "Stochastic 随机",
+    "url": "",
+    "definition": "A stochastic process is one whose behaviour is non-deterministic in that the next state is not fully determined or influenced by the previous state of the environment.\n \n 随机过程是其行为是非确定性的，即环境的下一个状态不完全受到前一个状态的影响或决定。"
+  },
+  {
+    "category": "S",
+    "name": "Surveillance 监测",
+    "url": "",
+    "definition": "Surveillance is the systematic ongoing collection, collation, and analysis of information related to health and the timely dissemination of that information to those who need to know so that action can be taken.\n \n监测是系统性、持续性地收集、整理和分析与健康相关的信息，并及时将该信息传播给那些需要知道的人，以便采取行动。"
+  },
+  {
+    "category": "S",
+    "name": "Surveillance system 监测系统",
+    "url": "",
+    "definition": "A surveillance system is a set of procedures to collect, collate and interpret information about a defined population with respect to disease. Most surveillance systems are comprised of several activities (e.g., on-farm testing, abattoir surveillance, disease hotlines) called surveillance system components (SSCs). Each surveillance system component assesses surveillance system units (SSUs).\n \n 监测系统是一组用于收集、整理和解释与疾病有关的关于定义人群的信息的程序。大多数监测系统由几个活动（例如农场测试、屠宰场监测、疾病热线）组成，称为监测系统组成部分（SSCs）。每个监测系统组件评估监测系统单位（SSUs）。"
+  },
+  {
+    "category": "S",
+    "name": "Surveillance system sensitivity",
+    "url": "",
+    "definition": "Surveillance system sensitivity (SSe) is defined as the average probability that a surveillance system (as a whole) will return a positive surveillance outcome, given disease is present in the population at a level equal to or greater than a specified design prevalence. \n \n监测系统灵敏度（SSe）定义为监测系统（作为一个整体）将返回一个阳性监测结果的平均概率，假设疾病在群体中的水平等于或大于指定的设计流行率。"
+  },    
+  {
+    "category": "S",
+    "name": "Surveillance system component 监测系统组件",
+    "url": "",
+    "definition": "A surveillance system component (SSC) is a surveillance activity (e.g., on-farm testing, abattoir surveillance, disease hotlines) that contributes information to a surveillance system.\n \n监测系统组件（SSC）是为监测系统提供信息的监测活动（例如农场测试、屠宰场监测、疾病热线）。"
+  },   
+  {
+    "category": "S",
+    "name": "Surveillance system component sensitivity 监测组件灵敏度",
+    "url": "",
+    "definition": "Surveillance component sensitivity (CSe) is the average probability that a surveillance system component will return a positive surveillance outcome, given disease is present in the population at a level equal to or greater than the specified design prevalence.\n \n监测组件灵敏度（CSe）是监测系统组件将返回一个阳性监测结果的平均概率，假设疾病在群体中的水平等于或大于指定的设计流行率。"
+  },    
+  {
+    "category": "S",
+    "name": "Surveillance system unit 监测系统单元",
+    "url": "",
+    "definition": "A surveillance system unit (SSU) is the individual item (individual, animal, household, farm) that gets examined within each surveillance system component.\n \n 监测系统单元（SSU）是在每个监测系统组件内检查的个体、动物、家庭或农场。"
+  },    
+  {
+    "category": "S",
+    "name": "Surveillance system unit sensitivity 监测系统单元灵敏度",
+    "url": "",
+    "definition": "Surveillance unit sensitivity (SUSe) is the probability that a surveillance unit will return a positive test given it truly has disease.\n \n 监测系统单元灵敏度（SUSe）是一个监测单元将返回一个阳性测试结果的概率，假设它确实患有疾病。"
+  },   
+  {
+    "category": "S",
+    "name": "Survey 调查",
+    "url": "",
+    "definition": "A survey is an examination of an aggregate of individual sampling units. When the aggregate of sampling units is the total population, the survey is called a census. More frequently, surveys are conducted on a proportion of the total population (a sample).\n \n调查是对一个个体抽样单元总体的考察。当抽样单元总体为整个群体时，该调查称为普查。更常见的情况是对群体的一部分（样本）进行调查。"
+  },
+  {
+    "category": "S",
+    "name": "Syndrome 综合征",
+    "url": "",
+    "definition": "A syndrome is a complex of signs and symptoms that tend to occur together, often characterising a specific disease.\n \n综合征是一组体征和症状的复杂组合，通常是某种特定疾病的特征。"
+  },
+  {
+    "category": "S",
+    "name": "Surveillance, syndromic 综合征监测",
+    "url": "",
+    "definition": "Syndromic surveillance is where complexes of signs and symptoms are used as the outcome measure for a surveillance system rather than specific disease diagnoses.\n \n 综合征监测是指使用体征和症状组合作为监测系统的结果衡量标准，而不是具体的疾病诊断。"
+  },
+    {
+    "category": "S",
+    "name": "Surveillance, event-based 基于事件的监测",
+    "url": "",
+    "definition": "Event-based surveillance records reports, stories, rumours and other information that could present a serious risk to human or animal health. Such information may be described as unstructured information because the information obtained is in a non-standardised format and may sometimes be subjective in nature.\n \n 基于事件的监测记录可以对人类或动物健康构成严重风险的报告、故事、传言和其他信息。这些信息可能被描述为非结构化信息，因为所获得的信息是非标准化的格式，有时可能是主观的。"
+  },
+    {
+    "category": "S",
+    "name": "Surveillance, indicator 基于指标的监测",
+    "url": "",
+    "definition": "Indicator-based surveillance involves reports of specific diseases from health care providers to human and/or animal health officials. Such information may be described as structured information because the information obtained is in a standardised format.\n \n基于指标的监测涉及来自医疗保健提供者的特定疾病报告，这些报告被发送给人类和/或动物卫生官员。这些信息可能被描述为结构化信息，因为所获得的信息是标准化的格式。"
+  },
+  {
+    "category": "S",
+    "name": "Systematic random sampling 系统随机抽样",
+    "url": "",
+    "definition": "Systematic sampling is a type of probability sampling method in which sample members from a larger population are selected according to a random starting point and a fixed periodic interval. The fixed periodic interval (called the sampling interval) is calculated by dividing the population size by the desired sample size.\n \n 系统抽样是一种概率抽样方法，根据随机起始点和固定的周期间隔选择较大总体中的样本成员。固定的周期间隔（称为抽样间隔）是通过将总体大小除以所需样本大小来计算的。"
+  },
+  {
+    "category": "O",
+    "name": "One- and two-tailed tests 单尾和双尾检验",
+    "url": "",
+    "definition": "Specifying the `number of tails' on a statistical test should be part of planning and reporting a study. A one-tailed test is used when the direction of the difference between two groups is known in advance or when differences observed in the opposite direction are not of interest or are not possible. For example, a drug may increase the length of long bones but will not decrease it. A study of changes in bone length is thus not concerned with the probability that bones will be shorter at the end of the study, only the probability that they will be longer. A one-tailed test is appropriate in this situation. If the bones could plausibly be either shorted or longer, a two-tailed test would then be appropriate. The minimum difference required for statistical significance is slightly less for a one-tailed test than for a two-tailed test. The two-tailed test is more conservative and is therefore more commonly used. Authors should specify whether tests they use are one or two-tailed and should justify the use of a one-tailed test.\n \n在规划和报告研究时，应该将“尾数”明确地纳入考虑。当两组之间的差异方向事先已知，或者对相反方向的差异不感兴趣或不可能时，就应该使用单尾检验。例如，一种药物可能会增加长骨的长度，但不会减少长度。因此，在对骨长的变化进行研究时，不关心在研究结束时骨头变短的概率，只关心骨头变长的概率。在这种情况下，单尾检验是适当的。如果骨头可能会变短或变长，那么就应该使用双尾检验。单尾检验所需的最小差异值略小于双尾检验所需的最小差异值。双尾检验更为保守，因此更常用。作者应说明他们所使用的检验是单尾还是双尾，并应该证明使用单尾检验的理由。"
+  },
+  {
+    "category": "T",
+    "name": "Transmission 传播",
+    "url": "",
+    "definition": "Disease may be transmitted in the following ways: (1) horizontally (person to person, animal to animal); or (2) vertically (generation to generation). Horizontal disease transmission occurs by: (a) direct contact when a susceptible host contracts an infection either by physical contact with an infected host or by contact with infected discharges from an infected host; or (b) indirect contact where living or inanimate objects carry infection between infected and susceptible hosts.\n \n疾病可以通过以下方式传播：（1）横向（人与人、动物与动物之间）；或（2）纵向（一代代传递）。横向传播疾病的方式包括：（a）直接接触，当易感宿主通过与感染宿主的物理接触或接触感染宿主的感染分泌物而感染病菌；或（b）间接接触，当生物或无生命物体在感染宿主和易感宿主之间传播病菌时。"
+  },
+  {
+    "category": "T",
+    "name": "Type I error 一型错误",
+    "url": "",
+    "definition": "A Type I error (a, alpha) is defined as the situation when the null hypothesis is rejected when, in reality, it is true (this is akin to a jury convicting an innocent person).\n \n 一型错误（a，α）是指在零假设为真时，拒绝零假设的情况（这类似于陪审团判定无辜的人有罪）。"
+  },
+  {
+    "category": "T",
+    "name": "Type II error 二型错误",
+    "url": "",
+    "definition": "A Type II error (b, beta) is defined as the situation when the null hypothesis is accepted when, in reality, it is false (this is akin to a jury setting a guilty person free).\n \n 二型错误（b，β）是指在零假设为假时接受零假设的情况（这类似于陪审团释放有罪的人）"
+  },
+  {
+    "category": "V",
+    "name": "Variance 变异性",
+    "url": "",
+    "definition": "A natural measure of variability of a distribution is the average of the deviations from the mean. The variance equals the average of the squared deviations from the mean. The standard deviation is the positive square root of the variance. Standard deviation has the same units as the units of the variable under investigation. For normal distributions (only), the areas bounded by 1, 2 and 3 standard deviations either side of the mean contain approximately 68%, 95% and 99% of the distribution.\n \n分布的变异性的一个自然度量是平均偏差。方差等于平均偏差的平方。标准差是方差的正平方根。标准差的单位与所研究的变量的单位相同。对于正态分布，其均值两侧1、2和3个标准差所包含的面积分别约为68％、95％和99％。"
+  },
+  {
+    "category": "V",
+    "name": "Vector 媒介",
+    "url": "",
+    "definition": "A vector is an animate transmitter of infectious agents. Invertebrates, usually arthropods act as vectors for disease. A mechanical vector is a living vector (usually an arthropod) that physically carries an infectious agent between hosts. A biological vector is the same as a mechanical vector but there is a stage of multiplication by the agent in the vector before the agent is again transmitted. Developmental transmission, propagative transmission and cyclopropagative transmission can occur within a biological vector.\n \n媒介是传播传染病的有机体，通常是节肢动物，如无脊椎动物。机械媒介是指一种活体媒介（通常是节肢动物），在宿主之间物理携带传染性代理。生物媒介与机械媒介相同，但代理在媒介体内具有一定的繁殖阶段，然后再次传播。在生物媒介体内可能发生发育传播、增殖传播和循环增殖传播等。"
+  },
+  {
+    "category": "V",
+    "name": "Virulence 毒力",
+    "url": "",
+    "definition": "Virulence is a term applied to infectious diseases to describe the severity of disease, after infection has occurred.\n \n毒力是应用于传染病的术语，用于描述感染发生后的疾病严重程度。"
+  }
+]	

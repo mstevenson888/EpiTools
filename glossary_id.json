@@ -1,0 +1,1498 @@
+[
+  {
+    "category": "A",
+    "name": "Absolute effect",
+    "url": "",
+    "definition": "Absolute effect is the effect of an exposure on an outcome expressed as the difference between risks, proportions or means as opposed to the ratio of these measures."
+  },
+  {
+    "category": "A",
+    "name": "Absolute rate",
+    "url": "",
+    "definition": "Absolute rate is the number of specified events (e.g., disease onset, deaths) divided by the time at risk in a defined population over a specified time interval."
+  },
+  {
+    "category": "A",
+    "name": "Absolute risk",
+    "url": "",
+    "definition": "Absolute risk is the probability of an event (usually adverse, but may also be beneficial) in the population under study."
+  },
+  {
+    "category": "A",
+    "name": "Accuracy",
+    "url": "random_systematic_error",
+    "definition": "A measurement or observation that is accurate is one in which the measurement or observation is close to the true population value.\n \nIn the plot below the second and fourth plots from the left show greater accuracy than first and third plots from the left (assuming the centre of the target is the true population value)."
+  },
+  {
+    "category": "A",
+    "name": "Adjustment",
+    "url": "",
+    "definition": "Adjustment is a procedure for a providing a statistical measure in which the effects of differences in composition of the populations being compared have been minimised by statistical methods.\n \nExamples are adjustment by regression analysis, by inverse-probability weighting and by standardisation.\n \nAdjustment is often performed on a rate or on an effect measure, commonly because of differing age and sex distributions in the populations being compared. The mathematical procedure commonly used to adjust rates for age differences is (direct or indirect) standardisation."
+  },
+  {
+    "category": "A",
+    "name": "Adjustment sets",
+    "url": "",
+    "definition": "There are several methods to account for or adjust for the effect of confounding when quantifying exposure-outcome relationships. When you're having to deal with several confounders in an exposure-outcome relationship (not just one) we talk about `adjustment sets'.\n \nA sufficient adjustment set is a set of variables Z such that the effect of an exposure variable X on an outcome Y is unconfounded, conditional on adjustment for the effect of Z. The key point is that we're moving away from thinking in terms of single confounders in an exposure-outcome relationship but now consider the more typical scenario where multiple confounders are present."
+  },
+  {
+    "category": "A",
+    "name": "Attack rate",
+    "url": "",
+    "definition": "Attack rate is the proportion of a population developing the outcome of interest (e.g., illness) during a defined period of time."
+  },
+  {
+    "category": "A",
+    "name": "Attributable fraction",
+    "url": "AF_s",
+    "definition": "The attributable fraction (aetiologic fraction) describes the proportion of disease in exposed individuals that is due to exposure."
+  },
+  {
+    "category": "A",
+    "name": "Attributable risk",
+    "url": "AR_s",
+    "definition": "The attributable risk (risk difference, excess risk, cumulative incidence difference, prevalence difference) provides a measure of the additional risk of disease due to exposure, among the exposed."
+  },
+  {
+    "category": "A",
+    "name": "At risk premises",
+    "url": "",
+    "definition": "An at-risk premises is a premises in a restricted area that contains a live susceptible animal(s) but is not considered at the time of classification to be an infected premises, dangerous contact premises, dangerous contact processing facility, suspect premises or trace premises."
+  },
+  {
+    "category": "B",
+    "name": "Berkson's fallacy (bias)",
+    "url": "",
+    "definition": "Berkson's fallacy (Berksonian bias) is a common type of bias in case-control studies, in particular hospital-based studies. It occurs due to differential admission rates between cases and controls who have the risk factor being investigated. This leads to positive (and spurious) associations beteen exposure and the case-control status with the highest exposure-linked admission rate.\n \nAn example of Berkson's fallacy would be a case-control study where cases are patients with stomach cancer and exposure is history of cirrhosis of the liver. Two scenarios are possible: (1) cases with a history of cirrhosis of the liver are more likely to be admitted to hospital than controls with cirrhosis of the liver, or (2) they are less likely (maybe because of higher mortality). The first scenario may lead to a spurious positive association between disease and exposure and the second to a negative association (i.e., exposure is protective)."
+  },
+  {
+    "category": "B",
+    "name": "Bias",
+    "url": "",
+    "definition": "Bias (also known as systematic error) is a systematic deviation of results or inferences from the truth. There are two types of bias: (1) selection bias which arises from systematic differences in the enrollment of participants in a study that leads to an incorrect result (e.g., risk ratio or odds ratio) or inference; (2) misclassificiation bias which arises from systematic differences in the collection of data regarding the participants in a study (e.g., about exposures in a case-control study, or about health outcomes in a cohort study) that leads to an incorrect result.\n \nMeasurement bias is a term used for continuous parameters. Misclassification bias is a term used for binary parameters."
+  },
+  {
+    "category": "B",
+    "name": "Bias, availability",
+    "url": "",
+    "definition": "Availability bias occurs when arguments presented to support an argument or proposal are based on immediate examples that come to a given person's mind. Availability bias operates on the notion that if something can be recalled, it must be important, or at least more important than alternative solutions which are not as readily recalled."
+  },
+  {
+    "category": "B",
+    "name": "Bias, interviewer",
+    "url": "",
+    "definition": "Interviewer bias (a form of misclassification bias) occurs when an interviewer who is privy to the hypothesis under investigation misclassifies some study subjects as exposed or diseased when really they are not."
+  },
+  {
+    "category": "B",
+    "name": "Bias, length of stay",
+    "url": "",
+    "definition": "Length of stay bias (a form of selection bias) occurs when those who are patients in hospital for relatively long periods of time have a higher likelihood of being requested to take part in observational or experimental studies."
+  },
+  {
+    "category": "B",
+    "name": "Bias, misclassification",
+    "url": "",
+    "definition": "Misclassification bias arises from systematic differences in the collection of data regarding the participants in a study (e.g., about exposures in a case-control study or about health outcomes in a cohort study) that leads to an incorrect result. Measurement bias is a term used for continuous parameters. Misclassification bias is a term used for binary parameters."
+  },
+  {
+    "category": "B",
+    "name": "Bias, non-response",
+    "url": "",
+    "definition": "Non-response bias (a form of selection bias) occurs when the characteristics of those selected to take part in a study influences the likelihood of their consenting to take part."
+  },
+  {
+    "category": "B",
+    "name": "Bias, obsequiousness",
+    "url": "",
+    "definition": "Obsequiousness bias (a form of misclassification bias) is where study subjects systematically alter their responses in the direction they perceive to be desired by the investigator."
+  },
+  {
+    "category": "B",
+    "name": "Bias, prevarication",
+    "url": "",
+    "definition": "Prevarication bias (a form of misclassification bias) occurs when study subjects may have ulterior motives for deliberately overestimating exposure to a hypothesised causal agent (e.g., because of a belief that they may be eligible for compensation)."
+  },
+  {
+    "category": "B",
+    "name": "Bias, recall",
+    "url": "",
+    "definition": "Recall bias (a form of misclassification bias) occurs when some study subjects (e.g., cases) are better at recalling the presence or absence of past exposure events, compared with others."
+  },
+  {
+    "category": "B",
+    "name": "Bias, selection",
+    "url": "",
+    "definition": "Selection bias arises from systematic differences in the enrollment of participants in a study that leads to an incorrect result (e.g., risk ratio or odds ratio) or inference."
+  },
+  {
+    "category": "B",
+    "name": "Bias, survival",
+    "url": "",
+    "definition": "Survival bias (a form of selection bias) occurs when treatment results in enhanced longevity of some study subjects, leading to an apparent increase in the prevalence of the disease being treated."
+  },
+  {
+    "category": "B",
+    "name": "Box and whisker plot",
+    "url": "",
+    "definition": "Box and whisker plots are a useful way to show the distribution of continuous variables and to make comparisons of the the distribution of continuous variables across different sub-groups within a data set.\n \nIn a box and whisker plot the line within each box indicates the 50th quantile (the median) of the variable of interest. The lower and upper bound of the boxes represent the 25th and 75th quantiles of the variable of interest, respectively. The lower and upper vertical lines extending from the boxes represent the lower and upper bounds of the 95% confidence interval around the distribution. Solid circles represent outliers (extreme values)."
+  },
+
+  {
+    "category": "C",
+    "name": "Case-control study",
+    "url": "case_control_study",
+    "definition": "A case-control study is an observational epidemiological study of individuals with disease (or another outcome variable) and a suitable control group of individuals without the disease (also known as the comparison or reference group).\n \nIdeally, controls should meet two criteria: (1) their frequency of exposure should reflect the population from which the cases arise; and (2) assessment intensity of exposure status and outcome status in both case and control groups should be the same. The key principal to avoid bias in case-control studies is to ensure that cases and controls are derived from the same source population."
+  },
+  {
+    "category": "C",
+    "name": "Case-crossover study",
+    "url": "",
+    "definition": "A case-crossover study is an observational analogue of an experimental cross-over study. It can be used when a brief exposure triggers an outcome or causes a transient rise in the risk of a disease with an acute onset (e.g., to assess the effect of medication use on the short-term risk of myocardial infarction). A key difference between a traditional case-control study and the case-crossover design is that in the latter each case serves as its own matched control."
+  },
+  {
+    "category": "C",
+    "name": "Case definition",
+    "url": "",
+    "definition": "A case definition is a set of criteria (not necessarily diagnostic criteria) that must be fulfilled in order to identify a person as representing a case of a particular disease. In disease outbreak situations a case definition is comprised of epidemiological criteria and clinical criteria."
+  },
+  {
+    "category": "C",
+    "name": "Case reports",
+    "url": "",
+    "definition": "Case reports are detailed descriptions of a small number of patients or clinical cases (sometimes a single sick individual) with an unsual disease or complication, uncommon combinations of diseases, an unusual cause or outcome."
+  },
+  {
+    "category": "C",
+    "name": "Case series",
+    "url": "",
+    "definition": "A case series is a collection of patients with common characteristics used to describe some clinical, pathophysiological, or operational aspect of a disease, treatment, or diagnostic procedure."
+  },
+  {
+    "category": "C",
+    "name": "Causation",
+    "url": "",
+    "definition": "A cause is an event, condition or characteristic that precedes a disease event, and without which the disease event would not have occurred at that time (Rothman and Greenland, 2005). There are two causal models used in epidemiology: (1) a component cause model (comprised of component, necessary and sufficient causes; and (2) a causal web model."
+  },
+  {
+    "category": "C",
+    "name": "Central Limit Theorem",
+    "url": "",
+    "definition": "The Central Limit Theorem states that if you have a population with a mean of mu and standard deviation sigma and you take sufficiently large samples from the population with replacement the distribution of the sample means will be approximately normal. The standard deviation of the sample means will be equal to the standard deviation of the sample means divided by the square root of the number of samples taken."
+  },
+  {
+    "category": "C",
+    "name": "Chance",
+    "url": "",
+    "definition": "If a valid measurement was repeated over and over again, with the same sampling and other methods, the average answer would be the true population parameter value. Any single measurement result will be different from the true population parameter value due to random error.\n \nAn estimate that is relatively free from random error is said to be precise. Chance effects can be overcome with a larger sample size."
+  },
+  {
+    "category": "C",
+    "name": "Chemoprophylaxis",
+    "url": "",
+    "definition": "Chemoprophylaxis is drug treatment designed to prevent future occurrences of disease. Treatment may be chemotherapy as far as an individual is concerned but chemoprophylactic for the population as a whole."
+  },
+  {
+    "category": "C",
+    "name": "Close contact infection",
+    "url": "",
+    "definition": "Close contact infection is an infection which requires close contact, other than sexual contact, between susceptible and infectious individuals, for transmission."
+  },
+  {
+    "category": "C",
+    "name": "Cluster sampling",
+    "url": "",
+    "definition": "Cluster sampling is a sampling method in which each unit selected is a group of individuals (e.g., all persons in a city block, a family) rather than an individual."
+  },
+  {
+    "category": "C",
+    "name": "Cohort study",
+    "url": "cohort_study",
+    "definition": "A cohort study is an observational study in which subsets of a defined population can be identified who are, have been, or in the future may be exposed or not exposed, or exposed in different degrees, to a factor or factors hypothesised to influence the occurrence of a given disease or other outcome.\n \nThe main feature of a cohort study is observation of large numbers of study subjects over a long period (commonly years), with comparison of incidence rates in groups that differ in exposure levels. Cohort studies may be prospective or retrospective."
+  },
+  {
+    "category": "C",
+    "name": "Colinearity",
+    "url": "",
+    "definition": "When performing multiple regression, it is useful to examine correlations between explanatory variables. If two explanatory variables are positively correlated with each other then the partial regression coefficients will be smaller than the separate regression coefficients. Note that some degree of correlation between explanatory variables is to be expected.\n \nCorrelation is only a problem when it is so high that the partial regression coefficients are misleading or their standard errors become unduly large. If two explanatory variables are highly correlated, then only one of them should be included in the model. When explanatory variables are highly correlated, the situation is called colinearity."
+  },
+  {
+    "category": "C",
+    "name": "Collider variable",
+    "url": "",
+    "definition": "A collider variable is a variable that is caused by both the exposure and the outcome."
+  },
+  {
+    "category": "C",
+    "name": "Common continuous source epidemic",
+    "url": "",
+    "definition": "A common continuous source epidemic is an epidemic in which exposure to an infectious agent or toxin occurs over an extended period of time (over more than one incubation period in the case of infectious agents). The down slope of the curve may be sharp if the common source is removed or gradual if the outbreak is allowed to exhaust itself."
+  },
+  {
+    "category": "C",
+    "name": "Common point source epidemic",
+    "url": "",
+    "definition": "A common point source epidemic is an epidemic in which a group of individuals are all exposed to an infectious agent or a toxin from the same (point, i.e., single) source."
+  },
+  {
+    "category": "C",
+    "name": "Community trial",
+    "url": "",
+    "definition": "A community trial is an experiment in which the unit of allocation to receive a preventive, therapeutic, or social intervention is an entire community or political subdivision."
+  },
+  {
+    "category": "C",
+    "name": "Compartment",
+    "url": "",
+    "definition": "A compartment is a common system of management and husbandry practices related to biosecurity that contains an animal subpopulation."
+  },
+  {
+    "category": "C",
+    "name": "Component causes",
+    "url": "",
+    "definition": "Component causes are conditions that are causally related to the presence of disease. Characteristics such as high cholesterol, smoking, lack of exercise, genetics, and the presence of concurrent diseases are all component causes of coronary heart disease in humans."
+  },
+  {
+    "category": "C",
+    "name": "Conditional effects",
+    "url": "",
+    "definition": "A conditional effect is the average effect of an exposure (e.g., treatment) on an individual. A marginal effect is the average effect of an exposure  on the population.\n \nEstimated conditional and marginal effects can differ in certain situations. The most commonly encountered situations are when the exposure effect is expressed as an odds ratio or hazard ratio. Marginal and conditional estimates are equal with risk ratios or with linear regressions. The scenarios where marginal and conditional odds ratio or hazard ratio estimates differ are those when the difference between odds (or hazard) ratios and risk ratios are greatest. This will occur then the outcome is relatively common and the explanatory variables included in the regression model are highly predictive of the outcome. "
+  },  
+  {
+    "category": "C",
+    "name": "Confidence interval",
+    "url": "",
+    "definition": "The lower and upper bounds of a confidence interval define the lower and upper values of an unknown population parameter (such as a population mean or a population prevalence).\n \nIt is incorrect to state that, for a 95% confidence interval, the `probability that the actual population parameter lies in the interval (a,b) is 95%' because the population parameter is not a random variable: it is fixed. It is the confidence interval itself that is variable. So the correct statement of result is `the probability that the interval contains the true population mean [or prevalence] is 95%' or, `we are 95% confident that the [true population mean] is between a and b'.\n \nA confidence interval provides an estimate of the uncertainty around an estimate of a population summary statistic (such as a mean, or the prevalence or incidence of disease). A confidence interval should not be used to provide an estimate of the variability of a set of observations collected from a population (e.g., a sample of bodyweights). To describe the variability of a set of observations one might report the standard deviation and/or calculate the lower 0.025 and upper 0.975 quantile of the distribution of measured values. The lower 0.025 and upper 0.975 quantiles of the distribution of measured values defines the 95% probability interval (PI)."
+  },
+  {
+    "category": "C",
+    "name": "Confounding",
+    "url": "confounding",
+    "definition": "Confounding refers to the distortion of the true association between an exposure and an outcome of interest because of the influence of a third factor. To be a confounder three criteria must be met: (1) the confounder must be a risk factor for the outcome; (2) the confounder must be associated with the exposure; and (3) the confounder must not be an intermediate step in the causal pathway between the exposure and the outcome."
+  },
+  {
+    "category": "C",
+    "name": "Contact rate",
+    "url": "",
+    "definition": "Contact rate is the rate at which susceptibles meet (i.e., come into contact with) infected individuals. Contact rate is usually measured as the number of effective contacts that occur per unit time."
+  },
+  {
+    "category": "C",
+    "name": "Containment",
+    "url": "",
+    "definition": "Containment is the process of completely preventing transmission of disease from an affected individual."
+  },
+  {
+    "category": "C",
+    "name": "Control area",
+    "url": "",
+    "definition": "A control area (CA) is a legally declared area where the disease controls, including surveillance and movement controls, applied are of lesser intensity than those in a restricted area (the limits of a control area and the conditions applying to it can be varied during an incident according to need)."
+  },
+  {
+    "category": "C",
+    "name": "Criterion",
+    "url": "",
+    "definition": "Criteria (the plural of criterion) can be of two kinds: factors and constraints. A factor (also known as a decision variable) is a criterion that enhances or detracts from the suitability of a specific alternative. A constraint serves to limit the alternatives under consideration. A good example of a constraint would be the exclusion from development of areas designated as wildlife reserves."
+  },
+  {
+    "category": "C",
+    "name": "Cross-sectional study",
+    "url": "cross_sectional_study",
+    "definition": "A cross-sectional study assesses the relationship between diseases (or other health outcomes) and other variables of interest as they exist in a defined population at one particular time."
+  },
+    {
+    "category": "C",
+    "name": "Cross-classified data",
+    "url": "",
+    "definition": "Multilevel modeling (also known as hierarchical or mixed effects modeling) is a statistical technique used to analyse data with a hierarchical or nested structure. Examples of hierarchical data include: (a) children within schools within neighbourhoods; (b) cows within farms within regions; and (c) patients within hospitals within health authority areas.\n \nWith cross-classified data lower level units (e.g., children, cows, patients) do not belong to a single higher level unit (schools, farms, health authority areas). Rather, lower level units can belong to two or more higher level units formed by crossing two or more higher level classifications with one another.\n \nAn example in educational research arises in studies of student attainment where students are nested within schools which are then separately nested within neighbourhoods. Schools and neighbourhoods are not typically nested within one another as not all students from the same school live in the same neighbourhood nor do all students from the same neighbourhood attend the same school. Rather, schools and neighbourhoods are crossed with one another, with each student potentially belonging to any combination of school and neighbourhood.\n \nIt is important to account for cross-classified structures in a multilevel data analysis because if we don't we will attribute response variation to the incorrect levels."
+  },
+  {
+    "category": "C",
+    "name": "Crude morbidity rate",
+    "url": "",
+    "definition": "Crude morbidity rate is an estimate of the portion of a population that experience a given illness during a specified period. The numerator is the number of individuals identified with the outcome of interest during the period. The denominator is the number in the population, usually estimated as the mid-year population size."
+  },
+  {
+    "category": "C",
+    "name": "Crude mortality rate",
+    "url": "",
+    "definition": "Crude mortality rate is an estimate of the portion of a population that dies during a specified period. The numerator is the number of individuals dying during the period. The denominator is the number in the population, usually estimated as the mid-year population size."
+  },
+  {
+    "category": "C",
+    "name": "Cumulative incidence sampling",
+    "url": "",
+    "definition": "Cumulative incidence sampling is a method for selecting controls for a case-control study. With cumulative incidence sampling (also known as survivor sampling) controls are selected from individuals who remain free of the outcome of interest at the end of the case recruitment period."
+  },
+  {
+    "category": "D",
+    "name": "Dangerous contact animal",
+    "url": "",
+    "definition": "A dangerous contact animal is a susceptible animal that has been designated as being exposed to other infected animals or potentially infectious products following tracing and epidemiological investigation."
+  },
+  {
+    "category": "D",
+    "name": "Dangerous contact premises",
+    "url": "",
+    "definition": "A dangerous contact premises (DCP) is a premises, apart from an abattoir, knackery or milk processing plant (or other such facility) that, after investigation and based on a risk assessment, is considered to contain a susceptible animal(s) not showing clinical signs, but considered highly likely to contain an infected animal(s) and/or contaminated animal products, wastes or things that present an unacceptable risk to the response if the risk is not addressed, and that therefore requires action to address the risk."
+  },
+  {
+    "category": "D",
+    "name": "Dangerous contact processing facility",
+    "url": "",
+    "definition": "A dangerous contact processing facility (DCPF) is an abattoir, knackery, milk processing plant or other such facility that, based on a risk assessment, appears highly likely to have received infected animals, or contaminated animal products, wastes or things, and that requires action to address the risk."
+  },
+  {
+    "category": "D",
+    "name": "Declared area",
+    "url": "",
+    "definition": "A declared area is a defined tract of land that is subjected to disease control restrictions under emergency animal disease legislation. There are two types of declared areas: restricted area and control area."
+  },
+  {
+    "category": "D",
+    "name": "Decontamination",
+    "url": "",
+    "definition": "Decontamination is a term to describe all stages of cleaning and disinfection of a premises."
+  },
+  {
+    "category": "D",
+    "name": "Depopulation",
+    "url": "",
+    "definition": "Depopulation is the act of removing (usually by slaughter) susceptible animals from a farm location that has been infected or has most likely been infected. A depopulation strategy refers to the target time set within a strategy to depopulate an infected premises following detection of infection. For example, with foot-and-mouth disease outbreaks in non-endemic countries a common depopulation strategy is to slaughter and remove all animals within 24 hours of the farm being detected as infected."
+  },
+  {
+    "category": "D",
+    "name": "Descriptive study",
+    "url": "",
+    "definition": "A descriptives study is a study concerned with and designed only to describe the existing distribution of variables without regard to causal relationships or other hypotheses. Descriptive studies are useful for generating hypotheses about disease determinants."
+  },
+  {
+    "category": "D",
+    "name": "Design",
+    "url": "",
+    "definition": "An experiment is usually carried out to study one or more variables. These variables are called factors in the experiment. Each factor may be investigated at several `settings' (e.g., drug dose). These settings are called the levels of the factor. An experiment consists of a number of separate `runs' or measurements. The manner in which levels of all factors are changed from one run to the next is the experimental design. If every level of every factor appears an equal number of times, the design is said to be balanced."
+  },
+  {
+    "category": "D",
+    "name": "Design effect",
+    "url": "",
+    "definition": "The design effect is an adjustment made to find a survey sample size appropriate for the sampling method (e.g., cluster sampling, respondent driven sampling, stratified sampling). Use of a design effect results in larger sample sizes (or wider confidence intervals) compared with those calculated assuming simple random sampling."
+  },
+  {
+    "category": "D",
+    "name": "Design prevalence",
+    "url": "",
+    "definition": "Detection of disease at a high prevalence is much easier than detection at low prevalence, so it is necessary to specify the prevalence(s) at which we will determine the sensitivity of a surveillance system component. This prevalence, set for the purpose of drawing conclusions about the effectiveness of the surveillance system component against an agreed standard, is called the design prevalence. \n \nThe design prevalence forms part of the design of a quantitative surveillance system assessment and is not related to any actual prevalence of disease in the population under study (when we are considering issues of freedom from disease, design prevalence should be zero). It is not subject to uncertainty or variability and does not need to be described by a probability distribution."
+  },
+  {
+    "category": "D",
+    "name": "Deterministic model",
+    "url": "",
+    "definition": "A deterministic model is a mathematical model in which the parameters and variables are not subject to random fluctuations, so that the system is at any time entirely defined by the initial conditions chosen."
+  },
+  {
+    "category": "D",
+    "name": "Direct adjustment",
+    "url": "",
+    "definition": "With direct adjustment the adjusted count for the ith strata equals the observed disease frequency estimate (i.e., prevalence or incidence) multiplied by a standard population size estimate for the ith strata."
+  },
+  {
+    "category": "D",
+    "name": "Direct spread",
+    "url": "",
+    "definition": "Direct spread refers to the transfer of disease from one location to another (or from one individual to another) via contact between infected and non-infected individuals."
+  },
+  {
+    "category": "D",
+    "name": "Disease incursion",
+    "url": "",
+    "definition": "A disease incursion is the introduction of disease into a population of susceptible individuals. The incursion date is the date of introduction of disease into a population of susceptible individuals."
+  },
+  {
+    "category": "D",
+    "name": "Disposal",
+    "url": "",
+    "definition": "Disposal is the biosecure removal of animal carcasses, animal products, materials and wastes by burial, burning or some other process so as to prevent the spread of disease."
+  },
+  {
+    "category": "D",
+    "name": "Dissemination",
+    "url": "",
+    "definition": "Dissemination is the transmission of an infectious agent by various means, such as the movement of infectious individuals through a susceptible population."
+  },
+  {
+    "category": "D",
+    "name": "Dunning-Kruger effect",
+    "url": "",
+    "definition": "The Dunning-Kruger effect is a cognitive bias whereby those with limited knowledge or competence in a given domain greatly overestimate their own knowledge or competence in that domain relative to objective criteria or to the performance of their peers or of people in general."
+  },
+  {
+    "category": "D",
+    "name": "Dynamic population",
+    "url": "",
+    "definition": "A dynamic population is a population in which individuals enter and exit over time. The inhabitants of a city would form a dynamic population."
+  },
+  {
+    "category": "E",
+    "name": "Ecological fallacy",
+    "url": "",
+    "definition": "Ecological fallacy refers to the process of deducing individual behaviour from aggregate data. The term originates from Robinson (1950) who noted that in ecological correlation, the statistical unit of interest is a group of individuals. Robinson concluded that ecological and individual correlations are almost always not equal. Thus, ecological fallacy occurs when analyses based on group data lead to conclusions that are different from those based on individual data. The resulting bias is often called ecological bias. \n \nEcological bias is composed of two components: (1) aggregation bias (which arises due to the grouping of the individuals); and (2) specification bias (due to the differential distribution of confounding variables created by grouping)."
+  },
+  {
+    "category": "E",
+    "name": "Ecological study",
+    "url": "",
+    "definition": "An ecological study is a study in which the units of analysis are populations rather than individuals."
+  },
+    {
+    "category": "E",
+    "name": "Effects, conditional",
+    "url": "",
+    "definition": "A conditional effect is the average effect of an exposure (e.g., treatment) on an individual. A marginal effect is the average effect of an exposure  on the population. Estimated conditional and marginal effects can differ in certain situations. The most commonly encountered situations are when the exposure effect is expressed as an odds ratio or hazard ratio. Marginal and conditional estimates are equal with risk ratios or with linear regressions. The scenarios where marginal and conditional odds ratio or hazard ratio estimates differ are those when the difference between odds (or hazard) ratios and risk ratios are greatest. This will occur then the outcome is relatively common and the explanatory variables included in the regression model are highly predictive of the outcome. "
+  },
+  {
+    "category": "E",
+    "name": "Effects, marginal",
+    "url": "",
+    "definition": "A marginal effect is the average effect of an exposure (e.g., treatment) on the population. A conditional effect is the average effect of an exposure on an individual. Estimated conditional and marginal effects can differ in certain situations. The most commonly encountered situations are when the exposure effect is expressed as an odds ratio or hazard ratio. Marginal and conditional estimates are equal with risk ratios or with linear regressions. The scenarios where marginal and conditional odds ratio or hazard ratio estimates differ are those when the difference between odds (or hazard) ratios and risk ratios are greatest. This will occur then the outcome is relatively common and the explanatory variables included in the regression model are highly predictive of the outcome. "
+  }, 
+  {
+    "category": "E",
+    "name": "Elimination",
+    "url": "",
+    "definition": "Elimination is the reduction to zero of the incidence of disease caused by a specific agent in a defined geographc area as a result of deliberate efforts.\n \nElimination means that continued control measures are needed to: (1) prevent re-introduction of the disease; and/or (2) reduce the likelihood of transmission if a re-introduction does occur."
+  },
+  {
+    "category": "E",
+    "name": "Emergency animal disease",
+    "url": "",
+    "definition": "An emergency animal disease is a disease that is: (a) exotic to a jurisdiction of interest; or (b) a variant of an endemic disease; or (c) a serious infectious disease of unknown or uncertain cause; or (d) a severe outbreak of a known endemic disease, and that is considered to be of national significance with serious social or trade implications."
+  },
+  {
+    "category": "E",
+    "name": "Empirical",
+    "url": "",
+    "definition": "Empirical data are data based directly on experience (e.g., observation or experiment) rather than on reasoning or theory alone."
+  },
+  {
+    "category": "E",
+    "name": "Endemic",
+    "url": "",
+    "definition": "Endemic is a term to describe levels of disease which do not exhibit wide fluctuations through time in a defined place. Stable endemicity is where the incidence of infection or disease shows no secular trend for increase or decrease."
+  },
+  {
+    "category": "E",
+    "name": "Epidemic",
+    "url": "",
+    "definition": "Epidemics may arise from the introduction of a novel pathogen (or strain) to a previously unexposed (naïve) population or as a result of the regrowth of susceptible numbers some time after a previous epidemic due to the same infectious agent."
+  },
+  {
+    "category": "E",
+    "name": "Epidemiology",
+    "url": "",
+    "definition": "Epidemiology is the study of the frequency, distribution and determinants of health-related states in populations, and, the application of such knowledge to control health problems."
+  },
+  {
+    "category": "E",
+    "name": "Eradication",
+    "url": "",
+    "definition": "Eradication is the permanent reduction to zero of the worldwide incidence of disease caused by a specific agent as a result of deliberate efforts.\n \nThe requirements and preconditions that need to be considered when formulating an eradication program fall into two main general categories: (1) technical-epidemiological, and (2) socio-economic, operational and administrative (Yekutiel 1980).\n \nThe technical-epidemiological preconditions are: (a) there should be a main tool that can be used as a control measure to break disease transmission. This tool should be simple to apply and be relatively inexpensive; and (b) the disease should have epidemiological features that facilitate effective case detection in the advanced stages of the eradication program.\n \nThe socio-economic, operational and administrative preconditions are: (a) the disease must be of recognised socio-economic importance (at either or both the national and international level); (b) there should be a specific reason for eradication (as opposed to control); (c) there should be adequate administrative, operational and financial resources available for the entire eradication program; and (d) there should be an absence of cultural or social conditions that render the methods used to eradicate disease unacceptable to stakeholders.\n \nEradication programs need to be based on a simple, inexpensive, completely effective method of breaking transmission, and clear evidence that eradication is preferable over control. The mix of technical, economic and social factors must all be favourable for a program to be successful."
+  },
+  {
+    "category": "E",
+    "name": "External validity",
+    "url": "",
+    "definition": "External validity is the validity of applying the conclusions of a scientific study outside the context of that study. In other words, it is the extent to which the results of a study can be generalised to and across other situations, people, stimuli, and times."
+  },
+  {
+    "category": "F",
+    "name": "Fallacy, ad hominem",
+    "url": "",
+    "definition": "Ad hominem fallacy (argumentum ad hominem) is a false or mistaken argument in which someone attacks the character, motive, or some other attribute of the person making a proposal rather than addressing the substance of the argument itself."
+  },  
+  {
+    "category": "F",
+    "name": "Fallacy, appeal to authority",
+    "url": "",
+    "definition": "Appeal to authority fallacy (argumentum ad verecundiam) is a false or mistaken argument in which the opinion of an authority on a topic is used as evidence to support an argument."
+  }, 
+  {
+    "category": "F",
+    "name": "Fallacy, appeal to emotion",
+    "url": "",
+    "definition": "Appeal to emotion fallacy (argumentum ad passiones) is a false or mistaken argument characterised by the manipulation of the recipient's emotions in order to win an argument, usually in the absence of factual evidence."
+  }, 
+  {
+    "category": "F",
+    "name": "Fallacy, appeal to ignorance",
+    "url": "",
+    "definition": "Appeal to ignorance fallacy (argumentum ad ignorantiam) is a false or mistaken argument in which someone argues either for or against something because there is no contradicting evidence. Appeal to ignorance fallacy is based on the mistaken assumption that a lack of evidence is evidence."
+  },   
+  {
+    "category": "F",
+    "name": "Fallacy, black or white",
+    "url": "",
+    "definition": "Black or white (also known as false dilemma, false dichotomy, either/or, or false choice) fallacy is a false or mistaken argument in which someone presents only two sides when there are, in reality, many options or sides."
+  }, 
+      {
+    "category": "F",
+    "name": "Farm",
+    "url": "",
+    "definition": "For the purpose of disease control a farm is defined as a physical location where one or more animals are kept under a common system of management."
+  },  
+  {
+    "category": "F",
+    "name": "First order effects",
+    "url": "",
+    "definition": "First order (or trend) effects describe the variation in the mean value of a process in space: that is, the global or large scale trend."
+  },
+  {
+    "category": "F",
+    "name": "Fixed cohort",
+    "url": "",
+    "definition": "A fixed cohort (also known as a closed population) is a population in which no individuals enter or exit the population over time. A group of individuals born in a single calendar year followed for a defined time frame would form a fixed cohort."
+  },
+  {
+    "category": "F",
+    "name": "Fomites",
+    "url": "",
+    "definition": "Fomites are inanimate objects (such as vehicles and farm machinery) which can be become contaminated with an infectious agent and transmit infection between individuals, farms or groups of animals."
+  },
+  {
+    "category": "F",
+    "name": "Force of infection",
+    "url": "",
+    "definition": "The force of infection is the per capita rate at which susceptibles become infected."
+  },
+  {
+    "category": "G",
+    "name": "Geographic information system",
+    "url": "",
+    "definition": "A geographic information system (GIS) is a system designed to capture, store, manipulate, analyse, manage and present all types of geographical data. A GIS can be thought of as a system that provides spatial data entry, management, retrieval, analysis and visualisation functions. The underlying reason for using a GIS in a human or animal health information system is to enable the spatial component of health to be incorporated in the reporting and analysis of surveillance data."
+  },
+  {
+    "category": "H",
+    "name": "(The) Hawthorne effect",
+    "url": "",
+    "definition": "The Hawthorne effect refers to a type of reactivity in which individuals modify an aspect of their behaviour in response to their awareness of being observed."
+  },
+  {
+    "category": "H",
+    "name": "(The) healthy worker effect",
+    "url": "",
+    "definition": "Healthy worker effect bias arises when individuals prematurely leave a population at risk due to the occurrence of (usually) health disorders. This means that when a cross-sectional study is carried out at a time well after the time of exit of these individuals we're left with a population that is (often) substantially different in composition to the population we started with: only the healthy or `robust' individuals remain. The presence of healthy worker effect bias means that we're likely to get distorted estimates of the strength of the association between given exposures and a study outcome if only cross-sectional data are used."
+  },
+    {
+    "category": "H",
+    "name": "Herd",
+    "url": "",
+    "definition": "For the purpose of disease control a herd is defined as one or more animals under a common system of management, usually kept at a single location (i.e., a farm). In this context the term 'herd' is a distinct (different) concept to that of herd immunity.\n \nIn most situations a herd and a farm will be equivalent. In some jurisdictions (e.g., Australia and Argentina) where the physical locations in which animals are kept (farms) are large, several herds may be present."
+  },
+  {
+    "category": "H",
+    "name": "Herd immunity",
+    "url": "",
+    "definition": "In a population in which a large number of individuals are immune, chains of infection are likely to be disrupted, which stops or slows the spread of disease. The greater the proportion of individuals in a community who are immune, the smaller the probability that those who are not immune will come into contact with an infectious individual."
+  },
+  {
+    "category": "H",
+    "name": "Hill's criteria for causation",
+    "url": "",
+    "definition": "Hill's criteria to support an argument that there is a causal relationship between an exposure and an outcome are: (1) is the association between the exposure and the outcome strong? (2) is there consistency in the exposure-outcome relationship across diffferent populations? (3) is the temporal sequence between exposure and development of the outcome correct? (4) is there a dose response relationship between the exposure and the outcome? (5) is the exposure-outcome relationship plausible and coherent with current knowledge? (6) is there experimental evidence to support the exposure-outcome relationship? (7) is the exposure-outcome relationship specific? That is, does the exposure cause a specific [distinct] outcome? and (8) does an analogy for the exposure-outcome relationship already exist?"
+  },
+  {
+    "category": "H",
+    "name": "Holoendemic",
+    "url": "",
+    "definition": "Holoendemic refers to the situation where the prevalence of disease is relatively uniform throughout a region, country or continent."
+  },
+  {
+    "category": "H",
+    "name": "Host",
+    "url": "",
+    "definition": "A host is a plant, animal or arthropod that is capable of being infected with, and therefore giving sustenance to, an infectious agent. infectious agent. Some form of sexual or asexual replication or development of the agent usually occurs in each host of the agent usually occurs in each host. Hosts may be categorised as definitive, primary, secondary, paratenic, intermediate, amplifier, hibernating, incidental (accidental or dead-end), link or reservoir."
+  },
+  {
+    "category": "I",
+    "name": "Immunity",
+    "url": "",
+    "definition": "Immunity is a state in which a host is not susceptible to infection or disease."
+  },
+  {
+    "category": "I",
+    "name": "Incidence density sampling",
+    "url": "",
+    "definition": "With incidence density sampling (also known as risk set sampling) in a case-control study the selection of controls is governed by the diagnoses of cases. Every time a case is diagnosed one or more controls are selected from other members of the population at risk who, at that time, do not have the diagnosis."
+  },
+  {
+    "category": "I",
+    "name": "In-contact animals",
+    "url": "",
+    "definition": "With incidence density sampling (also known as risk set sampling) in a case-control study the selection of controls is governed by the diagnoses of cases. Every time a case is diagnosed one or more controls are selected from other members of the population at risk who, at that time, do not have the diagnosis."
+  },
+  {
+    "category": "I",
+    "name": "Incidence proportion",
+    "url": "",
+    "definition": "Incidence proportion is defined as the number of new cases of disease that occur over a period of time divided by the number of individuals at risk at the beginning of the time period. An incidence proportion has no units. An incidence proportion usually refers to a period of time."
+  },
+  {
+    "category": "I",
+    "name": "Incidence rate",
+    "url": "",
+    "definition": "Incidence rate is defined as the total number of episodes of disease divided by the number of subject-days at risk. Incidence rate should be thought of as the `velocity' at which new cases of disease are occurring. Incidence rate is often expressed as the number of cases per 100 subject-years at risk. The incidence rate can't be interpreted in terms of probability of contracting a disease because it has no upper limit. Incidence rate can be used for the first occurrence of disease as well as multiple occurrences."
+  },
+  {
+    "category": "I",
+    "name": "Incidence risk",
+    "url": "",
+    "definition": "Incidence risk is usually restricted to the first occurrence of disease. The length of time of the period of study has a large influence on incidence risk: the longer the period, the greater the incidence risk. As a result the risk period must always be stated or defined when reporting its value."
+  },
+  {
+    "category": "I",
+    "name": "Incidence risk ratio (relative risk)",
+    "url": "sRR_s",
+    "definition": "The incidence risk ratio (relative risk) is defined as the incidence risk of the outcome of interest in the exposed population relative to the incidence risk of the outcome of interest in the non-exposed population. In practical terms, it provides an estimated of how many times more likely are exposed individuals likely to experience disease, relative to non-exposed individuals."
+  },
+  {
+    "category": "I",
+    "name": "Incubation period",
+    "url": "",
+    "definition": "Incubation period refers to the period from infection to the development of symptomatic or clinical disease. The antilog of one standard deviation from the mean log incubation period has been called the dispersion factor (Sartwell 1950). The dispersion factor multiplied by the mean log of the incubation period will define an interval above which 16% of the intervals will fall, and the mean divided by the dispersion factor will define the period below which 16% will occur."
+  },
+  {
+    "category": "I",
+    "name": "Index case",
+    "url": "",
+    "definition": "The index case is the first case identified with disease in an epidemic. The index case may not be the same as the primary case.\n \nThe index case for an outbreak is the first case of the disease to be diagnosed in a disease outbreak.\n \nThe index case for a herd, flock or other defined group is the first diagnosed case of an outbreak in a herd, flock or other defined group.\n \nThe index premises is the premises on which the index case is found."
+  },
+  {
+    "category": "I",
+    "name": "Indirect adjustment",
+    "url": "",
+    "definition": "With indirect adjustment the adjusted count for the ith strata equals a standardised frequency estimate multiplied by the observed population size for the for the ith strata. It is usual to set the standardardised incidence (or prevalence) for the ith strata as the sum of the total number of disease events across all strata divided by the total population size. Using this approach the indirectly adjusted disease count for the ith strata equals the standardardised incidence (or prevalence) multiplied by the population size for each strata. What this provides is the expected number of disease events within each strata assuming the strata-level risk of disease is the same as the entire population. It is common to divide the observed number of disease events per strata by the expected number to return a standardised morbidity or mortality ratio (SMR)."
+  },
+  {
+    "category": "I",
+    "name": "Indirect spread",
+    "url": "",
+    "definition": "Indirect spread refers to the transfer of disease from one location to another (or from one individual to another) via contaminated surfaces or objects."
+  },
+  {
+    "category": "I",
+    "name": "Induction period",
+    "url": "",
+    "definition": "Induction period refers to the period between causal action and disease initiation."
+  },
+  {
+    "category": "I",
+    "name": "Infected area",
+    "url": "",
+    "definition": "An infected area (IA) is a defined area in which an emergency disease exists, or is believed to exist. An infected premises is subject to quarantine served by notice and to eradication or control procedures. The disease case initiating declaration of an infected area must meet the case definition as described in the relevant response strategy."
+  },
+  {
+    "category": "I",
+    "name": "Infected premises",
+    "url": "",
+    "definition": "An infected premises (IP) is a defined area (which may be all or part of a property) on which animals meeting the case definition are or were present, or the causative agent of the emergency animal disease is present, or there is a reasonable suspicion that either is present, and that the relevant chief veterinary officer or their delegate has declared to be an infected premises."
+  },
+  {
+    "category": "I",
+    "name": "Infectious period",
+    "url": "",
+    "definition": "The infectious period is the time period during which infecteds are able to transmit an infection to any susceptible host or vector they contact. Note that the infectious period may not necessarily be associated with symptoms or signs of disease."
+  },
+  {
+    "category": "I",
+    "name": "Inference",
+    "url": "",
+    "definition": "Inference is the process of extrapolating the findings of a given study to a larger population."
+  },
+  {
+    "category": "I",
+    "name": "Interaction",
+    "url": "",
+    "definition": "When (statistical) interaction is present, the association between the exposure variable and the outcome variable differs between, or depends in some way on, the level of a third variable. That is, the third variable modifies the effect of the exposure variable on the outcome.\n \nBiological interaction involves a physical or chemical association and reaction, that may lead to synergism (the sum of the parts is greater than the effect of the parts in isolation). This relates to an identifiable stage in the causal pathway --- such as when two agents interact to increase pathogenicity."
+  },
+  {
+    "category": "I",
+    "name": "Internal validity",
+    "url": "",
+    "definition": "Internal validity is the extent to which a piece of evidence supports a claim about cause and effect, within the context of a particular study."
+  },
+  {
+    "category": "I",
+    "name": "Interquartile range",
+    "url": "",
+    "definition": "The interquartile range is a measure of the dispersion of a distribution based on the difference between the values of the third and first quartiles."
+  },
+  {
+    "category": "I",
+    "name": "Intra-class correlation coefficient",
+    "url": "",
+    "definition": "The intra-class correlation coefficient (ICC) allows us to quantify the degree of dependence or correlation between observations made within the same group. A low ICC means that most of the variation in the data with within the groups (i.e., there is very little clustering) whereas a high ICC means that the variation within a group is small relative to that between groups."
+  },
+  {
+    "category": "K",
+    "name": "Koch's postulates",
+    "url": "",
+    "definition": "Koch's postulates are as follows: (1) The microbe of interest is present in all cases of disease but not in healthy individuals; (2) The microorganism must be isolated from a disease organism and grown in pure culture; (3) The cultured organism should cause disease when inoculated into a healthy individuals; and (4) The organism must be re-isolated from the experimental host and be identified as being the same as the inoculum.\n \nKoch's postulates are not valid for non-infectious diseases, multifactorial diseases, asymptomatic carriers, and infectious agents that can't be easily cultured (e.g., BSE and emerging agents for which we don't yet have culture methods)."
+  },
+  {
+    "category": "L",
+    "name": "Latent period",
+    "url": "",
+    "definition": "Latent period refers to the time interval from infection to onset of infectiousness. Incubation period refers to the time interval from infection to onset of symptoms or clinical signs. The combined induction period and latent period is known as the empirical induction period."
+  },
+  {
+    "category": "L",
+    "name": "Least restrictive trade measures",
+    "url": "",
+    "definition": "Member countries of the World Trade Organisation are required to adopt measures that are not more trade-restrictive than required to achieve their appropriate level of protection. This implies that when there are alternative ways to achieve an appropriate level of protection, a government should use those measures which are the least trade-restrictive, if technically and economically feasible. For example, if a country wants to avoid the introduction of an insect associated with fruit imports, requiring fumigation might be a less trade-restrictive alternative to a complete import ban."
+  },
+  {
+    "category": "L",
+    "name": "Level",
+    "url": "",
+    "definition": "An experiment is usually carried out to study one or more variables. These variables are called factors in the experiment. Each factor may be investigated at several different `settings' (e.g., dose of drug). These settings are called the levels of the factor."
+  },
+  {
+    "category": "L",
+    "name": "Likelihood ratio",
+    "url": "",
+    "definition": "The likelihood ratio for a negative test tells us how likely we are to find a negative test result in a diseased individual compared with a negative test result in a non-diseased individual. The likelihood ratio for a negative test equals (1 - diagnostic test sensitivity) divided by diagnostic test specificity.\n \n The likelihood ratio for a positive test tells us how likely we are to find a positive test result in a diseased individual compared with a positive test result in a non-diseased individual. The likelihood ratio for a positive test equals diagnostic test sensitivity divided by (1 - diagnostic test specificity)."
+  },
+  {
+    "category": "L",
+    "name": "Livestock standstill",
+    "url": "",
+    "definition": "TA livestock standstill is the cessation of movements (i.e., transportation) of susceptible livestock, and preventing any new movements until disease control measures are in place."
+  },
+  {
+    "category": "L",
+    "name": "Local spread",
+    "url": "",
+    "definition": "Local spread is defined as the short distance (generally 5 kilometres or less) spread of disease between locations when there is no clear linkage other than geographical proximity."
+  },
+  {
+    "category": "M",
+    "name": "M-bias",
+    "url": "",
+    "definition": "M-bias (also called collider stratification bias) is the bias introduced by adjusting for the effect of a variable due to a particular `M-structure' evident in a causal diagram."
+  },
+  {
+    "category": "M",
+    "name": "Marginal effects",
+    "url": "",
+    "definition": "A marginal effect is the average effect of an exposure (e.g., treatment) on the population. A conditional effect is the average effect of an exposure on an individual. Estimated conditional and marginal effects can differ in certain situations. The most commonly encountered situations are when the exposure effect is expressed as an odds ratio or hazard ratio. Marginal and conditional estimates are equal with risk ratios or with linear regressions. The scenarios where marginal and conditional odds ratio or hazard ratio estimates differ are those when the difference between odds (or hazard) ratios and risk ratios are greatest. This will occur then the outcome is relatively common and the explanatory variables included in the regression model are highly predictive of the outcome. "
+  },  
+  {
+    "category": "M",
+    "name": "Mathematical model",
+    "url": "",
+    "definition": "Mathematical models can aid exploration of the behaviour of the system under various conditions from which to determine the dominant factors generating observed patterns and phenomena. They also aid data collection and interpretation and parameter estimation, and provide tools for identifying possible approaches to control and for assessing the potential impact of different intervention measures."
+  },
+  {
+    "category": "M",
+    "name": "Mediator variable",
+    "url": "",
+    "definition": "A mediator variable is a variable that explains (totally or partially) the relationship between an exposure and an outcome."
+  },
+  {
+    "category": "M",
+    "name": "Mode",
+    "url": "",
+    "definition": "The mode is the value that occurs with the greatest frequency."
+  },
+  {
+    "category": "M",
+    "name": "Modelling, real time",
+    "url": "",
+    "definition": "Real time disease modelling involves the simulation of disease spread over place and time while an outbreak is actually taking place."
+  },
+  {
+    "category": "M",
+    "name": "Modelling, hybrid",
+    "url": "",
+    "definition": "Hybrid modelling refers to a modelling comprised of both mathematical and simulation elements."
+  }, 
+  {
+    "category": "M",
+    "name": "Modelling, mathematical",
+    "url": "",
+    "definition": "Mathematical modelling refers to the process of creating a mathematical representation of a real-world scenario to make a prediction or provide insight."
+  }, 
+  {
+    "category": "M",
+    "name": "Modelling, simulation",
+    "url": "",
+    "definition": "Simulation modelling breaks a real-world scenario (e.g., the spread of disease in a population) into a series of steps, uses computer code to create a digital prototype of each step and provides an estimate of the behaviour of the scenario by executing each prototype step in a defined, sequential order."
+  }, 
+  {
+    "category": "M",
+    "name": "Monitoring",
+    "url": "",
+    "definition": "To monitor something means to be aware of the state of a system."
+  },
+  {
+    "category": "M",
+    "name": "Morbidity",
+    "url": "",
+    "definition": "Morbidity is defined as any departure, subjective or objective, from a state of physiological or psychological well-being."
+  },
+  {
+    "category": "M",
+    "name": "Movement controls",
+    "url": "",
+    "definition": "Movement controls are restrictions placed on the movement of animals, people and other things to prevent the spread of disease."
+  },
+  {
+    "category": "M",
+    "name": "Mortality",
+    "url": "",
+    "definition": "Mortality is another word to describe death. A mortality rate is the number of deaths due to a specified disease divided by the total number of individuals at risk. "
+  },
+  {
+    "category": "M",
+    "name": "Multivariate and multivariable analysis",
+    "url": "",
+    "definition": "Multivariate analysis is an analysis where there are multiple outcome variables (e.g., MANOVA). Multivariable analysis is an analysis where there are many explanatory variables. In epidemiology it is very common to do a univariate, multivariable analysis. That is, an analysis where there is one outcome variable and many explanatory variables."
+  },
+    {
+    "category": "M",
+    "name": "Multilevel modelling",
+    "url": "",
+    "definition": "Multilevel modeling (also known as hierarchical or mixed effects modeling) is a statistical technique used to analyse data with a hierarchical or nested structure.\n \nExamples of hierarchical data include: (a) children within schools within neighbourhoods; (b) cows within farms within regions; and (c) patients within hospitals within health authority areas. With hierarchical data observations made on individual sampling units (i.e., children, cows, patients in the examples cited above) are not independent. Lack of independence violates the assumptions of regression models we might apply to these data.\n \nWhen carrying out a multilevel analysis it is necessary to define the levels of the hierarchy in which individual study subjects are organised. Each level (e.g., schools, education authorities) should represent a sample from a larger population. Factors such as treatment group or gender are not considered to be levels of data because they can’t be thought of as a random sample from a larger population: We want to make inferences only about the specific values of treatment or gender that were included in our study, not to a larger population of treatments or genders."
+  },
+  {
+    "category": "N",
+    "name": "Necessary causes",
+    "url": "",
+    "definition": "A necessary cause is a component cause without which the disease cannot occur (the factor will always be present if the disease occurs)."
+  },
+  {
+    "category": "N",
+    "name": "Nominal variables",
+    "url": "",
+    "definition": "Nominal variables are variable where numbers are used to indicate labels for categories. Disease status might be coded 0 = no, 1 = yes. Gender might be coded 0 = male, 1 = female."
+  },
+  {
+    "category": "N",
+    "name": "Number needed to treat",
+    "url": "sNNT_s",
+    "definition": "The number needed to treat (NNT) equals the inverse of the attributable risk. Depending on the outcome of interest we use different labels for NNT. When dealing with an outcome that is `desirable' (e.g., treatment success) we call NNT the number needed to treat for benefit, NNTB. NNTB equals the number of subjects who would have to be exposed to result in a single (desirable) outcome. When dealing with an outcome that is `undesirable' (e.g., death) we call NNT the number needed to treat for harm, NNTH. NNTH equals the number of subjects who would have to be exposed to result in a single (undesirable) outcome."
+  },
+  {
+    "category": "O",
+    "name": "Objective",
+    "url": "",
+    "definition": "Decision rules are structured in the context of a specific objective. The nature of the objective and how it is viewed by decision makers (i.e., their motives) will serve as a strong guiding force in the development of a specific decision rule. An objective is the perspective that serves to guide the structuring of decision rules."
+  },
+  {
+    "category": "O",
+    "name": "Odds",
+    "url": "",
+    "definition": "Odds equals the ratio of the probability of occurrence of an event to that of non-occurrence."
+  },
+  {
+    "category": "O",
+    "name": "Odds and probability, relationship",
+    "url": "",
+    "definition": "Event odds = (Event probability) ÷ (1 - Event probability)\n \nEvent probability = (Event odds) ÷ (1 + Event odds)"
+  },
+  {
+    "category": "O",
+    "name": "Odds ratio",
+    "url": "OR_s",
+    "definition": "The odds ratio for a cohort study is defined as the odds of the outcome of interest in the exposed population relative to the odds of the outcome of interest in the non-exposed population. In practical terms, it provides an estimated of how many times more likely are exposed individuals likely to experience the outcome of interest, relative to non-exposed individuals. When the outcome of interest is rare the odds ratio provides a good approximation of the incidence risk ratio.\n \n The odds ratio for a case-control study is defined as the odds of exposure for cases relative to the odds of exposure for controls."
+  },
+  {
+    "category": "O",
+    "name": "One Health",
+    "url": "",
+    "definition": "One Health is defined as the collaborative, multidisciplinary effort to attain optimal health for people, animals and the environment."
+  },
+  {
+    "category": "O",
+    "name": "One Medicine",
+    "url": "",
+    "definition": "The concept of One Medicine embodies the view that human and veterinary medicine are dependent on an overlapping collection of biological characteristics, technologies and research discoveries."
+  },
+  {
+    "category": "O",
+    "name": "Ordinal variables",
+    "url": "",
+    "definition": "With ordinal variables numbers are used to indicate rank ordering. Example: 0 = non-smoker, 1 = light smoker, 2 = moderate smoker, 3 = heavy smoker."
+  },
+  {
+    "category": "O",
+    "name": "Outliers",
+    "url": "",
+    "definition": "A variable is considered as an outlier when the addition of the data point contradicts the relationship evident from the remainder of the data points."
+  },
+  {
+    "category": "O",
+    "name": "Outside area",
+    "url": "",
+    "definition": "An outside area (OA) is an area within the jurisdiction of interest that is outside of the declared (control and restricted) areas."
+  },
+  {
+    "category": "P",
+    "name": "P-value",
+    "url": "",
+    "definition": "The P-value is the probability of obtaining a result at least as extreme as the one that was actually observed, assuming the null hypothesis is true.\n \nIf P is large, we conclude that the data are consistent with the null hypothesis (i.e., that there are no differences among groups). Note that this is not the same as saying that the null hypothesis is true. The null hypothesis may actually be false but there might have been insufficient numbers of subjects in the study to detect departure from the null hypothesis.\n \nIf P is small, we conclude that there's a low probability that we will have observed this data if the null hypothesis was in fact true."
+  },
+  {
+    "category": "P",
+    "name": "Parallel interpretation of diagnostic tests",
+    "url": "",
+    "definition": "Parallel interpretation of diagnostic test results means that when multiple tests are performed an individual is declared positive if at least one of the tests returns a positive result. For a given disease prevalence, interpreting test results in parallel: (1) increases diagnostic sensitivity (and therefore the negative predictive value); and (2) decreases diagnostiv specificity (and therefore the positive predictive value). If a large number of tests are performed and interpreted in parallel then virtually every individual will be classified as positive."
+  },
+  {
+    "category": "P",
+    "name": "Pathogenicity",
+    "url": "",
+    "definition": "Pathogenicity is a term applied to infectious diseases to describe the ability of an agent to induce clinical disease, after infection has occurred."
+  },
+  {
+    "category": "P",
+    "name": "Period prevalence proportion",
+    "url": "",
+    "definition": "Period prevalence proportion is defined as the number of affected individuals in a population plus a count of new cases over a defined period of time divided by the size of the population under consideration. This measure of disease frequency is not often used since it combines measures of both prevalence and incidence."
+  },
+  {
+    "category": "P",
+    "name": "Point prevalence proportion",
+    "url": "",
+    "definition": "Point prevalence proportion is defined as the number of affected individuals at a specific point in time divided by the size of the population under consideration. This measure of disease frequency is not a rate."
+  },
+  {
+    "category": "P",
+    "name": "Population",
+    "url": "populations",
+    "definition": "A population is defined as the total set of actual or possible values of the variable of interest. The source population is a collection of individuals from which individuals eligible for study will be sought. The eligible population is a subset of the source population who meet a defined set of study inclusion (i.e., eligibility) criteria. The study population is a subset of the eligible population from which the study data have been obtained. Ideally, all members of the eligible population should form the study population, however losses due to non-participation frequently occur. Losses due to non-participation have to be considered carefully as they are likely to be non-random and the reasons for the losses may be related to the exposure or the outcome. The important issue is not whether members of the study populations are `typical', but whether the association between outcome and exposure given by this group is likely to apply to other groups."
+  },
+  {
+    "category": "P",
+    "name": "Population attributable fraction",
+    "url": "sPAF_s",
+    "definition": "The population attributable fraction (PAF) quantifies the proportion of disease in the population that is due to exposure. Many diseases are caused by multiple risk factors, and individual risk factors may interact in their impact on overall risk of disease. As a result, PAFs for individual risk factors often overlap and can add up to more than 100 percent."
+  },
+    {
+    "category": "P",
+    "name": "Probability and odds, relationship",
+    "url": "",
+    "definition": "Event odds = (Event probability) ÷ (1 - Event probability)\n \nEvent probability = (Event odds) ÷ (1 + Event odds)"
+  },
+  {
+    "category": "P",
+    "name": "Population attributable risk",
+    "url": "sPAR_s",
+    "definition": "The population attributable risk provides a measure of the additional risk of disease due to exposure, among the population."
+  },
+  {
+    "category": "C",
+    "name": "Closed population",
+    "url": "",
+    "definition": "A closed population is a population that is not able to recruit and lose members over time."
+  },
+  {
+    "category": "E",
+    "name": "Eligible population",
+    "url": "populations",
+    "definition": "An eligible population is a subset of the source population who meet a defined set of study inclusion (i.e., eligibility) criteria."
+  },
+  {
+    "category": "O",
+    "name": "Open population",
+    "url": "",
+    "definition": "An open population is a population that is able to recruit and lose members over time."
+  },
+  {
+    "category": "S",
+    "name": "Source population",
+    "url": "populations",
+    "definition": "A source population is a collection of individuals from which individuals eligible for study will be sought."
+  },
+  {
+    "category": "S",
+    "name": "Study population",
+    "url": "populations",
+    "definition": "A study population is a subset of the eligible population from which the study data have been obtained. Ideally, all members of the eligible population should form the study population, however losses due to non-participation frequently occur. Losses due to non-participation have to be considered carefully as they are likely to be non-random and the reasons for the losses may be related to the exposure or the outcome. The important issue is not whether members of the study populations are `typical', but whether the association between outcome and exposure given by this group is likely to apply to other groups."
+  },
+  {
+    "category": "T",
+    "name": "Target population",
+    "url": "",
+    "definition": "The target population is a collection of individuals of restricted interest from which one has sampled about which one wishes to make statistical inferences with respect to a study objective."
+  },
+  {
+    "category": "P",
+    "name": "Precautionary principle",
+    "url": "",
+    "definition": "The precautionary principle is a notion which supports taking protective action before there is complete scientific proof of a risk. That is, action should not be delayed simply because full scientific information is lacking."
+  },
+  {
+    "category": "P",
+    "name": "Precision",
+    "url": "random_systematic_error",
+    "definition": "A measurement or observation that is precise is one in which the same or similar value is obtained when the measurement or observation is repeated. In the plot below the two plots to the right show greater precision than the two plots to the left."
+  },
+  {
+    "category": "P",
+    "name": "Prediction interval",
+    "url": "",
+    "definition": "A prediction interval is an estimate of an interval in which a future observation will fall, with a certain confidence level, given the observations that were already observed. For a 95% prediction interval we can state that if we would repeat our sampling process infinitely, 95% of the constructed prediction intervals would contain the new observation."
+  },
+  {
+    "category": "P",
+    "name": "Premises",
+    "url": "",
+    "definition": "A premises is a tract of land including its buildings, or a separate farm or facility that is maintained by a single set of services and personnel."
+  },
+  {
+    "category": "P",
+    "name": "Premises of relevance",
+    "url": "",
+    "definition": "Premises of relevance (POR) are premises in a control area that contain live susceptible animal(s) but are not considered, at the time of classification, to be an infected premises, suspect premises, trace premises, dangerous contact premises or dangerous contact processing facility."
+  },
+  {
+    "category": "P",
+    "name": "Predictive value, negative",
+    "url": "",
+    "definition": "Negative predictive value (NPV) is the proportion of subjects with negative test results which do not have the disease. That is:\n \nNPV = (Tneg | Dneg) ÷ (Tneg | Dpos + Tneg | Dneg)\n \n Alternatively, if true prevalence (TP), diagnostic sensitivity (Se) and diagnostic specificity (Sp) are known:\n \nNPV = [(1 - TP) × Sp] ÷ [TP × (1 - Se) + (1 - TP) × Sp]"
+  },
+  {
+    "category": "P",
+    "name": "Predictive value, positive",
+    "url": "",
+    "definition": "Positive predictive value (PPV) is the proportion of subjects with positive test results which have the disease. That is:\n \nPPV = (Tpos | Dpos) ÷ (Tpos | Dpos + Tpos | Dneg)\n \nAlternatively, if true prevalence (TP), diagnostic sensitivity (Se) and diagnostic specificity (Sp) are known:\n \nPPV = [TP × Se] ÷ [(TP × Se) + (1 - TP) × (1 - Sp)]"
+  },
+  {
+    "category": "P",
+    "name": "Prevalence",
+    "url": "",
+    "definition": "Prevalence is defined as the number of individuals with a given disease at a given point in time divided by the population at risk at that point in time. Because prevalence does not involve a period of time, it is a proportion."
+  },
+  {
+    "category": "P",
+    "name": "Prevalence, apparent",
+    "url": "",
+    "definition": "The apparent prevalence is the proportion of all individuals that return a positive test result."
+  },
+  {
+    "category": "P",
+    "name": "Prevalence, true",
+    "url": "",
+    "definition": "True prevalence is the true portion of individuals with a given disorder in a population as determined by a gold standard test."
+  },
+  {
+    "category": "P",
+    "name": "Primary case",
+    "url": "",
+    "definition": "The primary case is the individual that introduces disease into a herd, flock or other group under study. The primary case is not necessarily the first case diagnosed case in that herd, flock or other group under study."
+  },
+  {
+    "category": "P",
+    "name": "Proportion",
+    "url": "",
+    "definition": "A proportion is the number of observations with a given characteristic divided by the total number of observations in a given group. A proportion is always defined as a part divided by the whole and is useful for ordinal and numerical data."
+  },
+  {
+    "category": "P",
+    "name": "Proof of disease freedom",
+    "url": "",
+    "definition": "Proof of disease freedom is the point following an outbreak and post-outbreak surveillance activities when freedom from the disease can be claimed with a defined level of statistical confidence."
+  },
+  {
+    "category": "R",
+    "name": "R0",
+    "url": "",
+    "definition": "R0 (the basic reproduction number) is defined as the number of individuals infected by a single infective in a population of susceptibles during one infectious period, assuming homogenous mixing."
+  },
+  {
+    "category": "R",
+    "name": "Randomised control trial",
+    "url": "",
+    "definition": "A randomised control trial is an epidemiological experiment in which subjects in a population are randomly allocated into groups, usually called treatment and control groups, to receive or not to receive an experimental preventive or therapeutic procedure, manoeuver, or intervention."
+  },
+  {
+    "category": "R",
+    "name": "Range",
+    "url": "",
+    "definition": "The range is defined as the difference between the smallest and the largest observation."
+  },
+  {
+    "category": "R",
+    "name": "Ratio",
+    "url": "",
+    "definition": "A ratio is the number of observations in a given group with a given characteristic divided by the number of observations without the given characteristic. A ratio is always defined as a part divided by another part."
+  },
+  {
+    "category": "R",
+    "name": "Repeated survey",
+    "url": "",
+    "definition": "A repeated survey is a survey carried out more than once, mostly with regular frequency, for example monthly, quarterly, or annually."
+  },
+  {
+    "category": "R",
+    "name": "Reservoir population",
+    "url": "",
+    "definition": "A reservoir population, also known as a disease reservoir or a reservoir of infection, is the population of organisms or the specific environment in which an infectious pathogen naturally lives and reproduces, or upon which the pathogen primarily depends for its survival. A reservoir is usually a living host of a certain species, such as an animal or a plant, inside of which a pathogen survives, often (though not always) without causing disease for the reservoir itself."
+  },
+  {
+    "category": "R",
+    "name": "Resolved premises",
+    "url": "",
+    "definition": "A resolved premises (RP) is an infected premises, dangerous contact premises or dangerous contact processing facility that has completed the required control measures, and is subject to the procedures and restrictions appropriate to the area in which it is located."
+  },
+  {
+    "category": "R",
+    "name": "Restricted area",
+    "url": "",
+    "definition": "A restricted area (RA) is a relatively small legally declared area around infected premises and dangerous contact premises that is subject to disease controls, including intense surveillance and movement controls."
+  },
+  {
+    "category": "R",
+    "name": "Review, narrative",
+    "url": "",
+    "definition": "A narrative review is a comprehensive and critical analysis of the current knowledge on a topic.\n \nCompared with scoping and systematic reviews, study inclusion criteria and the level of critique of the studies included in a narrative review are not defined."
+  },
+    {
+    "category": "R",
+    "name": "Review, scoping",
+    "url": "",
+    "definition": "A scoping review clarifies concepts and identifies the existing literature on a specific research question.\n \nScoping reviews help to inform future research by identifying gaps in the existing literature and identifying areas where there may be a sufficient depth of literature to warrant a systematic review."
+  },
+  {
+    "category": "R",
+    "name": "Review, systematic",
+    "url": "",
+    "definition": "A systematic review identifies, selects and critically appraises research in order to answer a clearly defined question (e.g., the prevalence-incidence of disease, questions related to aetiology, intervention efficacy and diagnostic test accuracy).\n  \nA systematic review should follow a clearly defined protocol or plan where the criteria for study inclusion is clearly stated before the review is conducted. It is a comprehensive, transparent search conducted over multiple databases and grey literature that can be replicated and reproduced by other researchers. A systemic review identifies the type of information searched, critiqued and reported within known time frames. The search terms, search strategies (including database names, platforms, dates of search) and limits should be documented in the review."
+  },
+  {
+    "category": "R",
+    "name": "Risk factor",
+    "url": "",
+    "definition": "Risk factors are antecendents of adverse health outcomes that remain associated with the outcomes after adjustment for measured potential confounders."
+  },
+    {
+    "category": "R",
+    "name": "Rogan-Gladen estimator",
+    "url": "",
+    "definition": "If the sensitivity (Se) and specificity (Sp) of a diagnostic test are known, apparent prevalence (AP) can be converted to true prevalence (TP) using the Rogan Gladen estimator (Rogan and Gladen 1978).\n \nThe Rogan-Gladen estimate of true prevalence is given by:\n \n TP = (AP + Sp - 1) ÷ (Se + Sp - 1).\n \nIf AP is less than (1 - Se) the Rogan Gladen estimate of TP will be less than zero.\n \nIf AP is greater than Se the Rogan Gladen estimate of TP will be greater than one.\n \nWhen the Rogan-Gladen estimate of TP lies outside of the 0 to 1 range Bayesian methods are required to estimate true prevalence.\n  \nRogan W, Gladen B (1978). Estimating prevalence from results of a screening test. American Journal of Epidemiology 107: 71 - 76."
+  },
+  {
+    "category": "S",
+    "name": "Sample",
+    "url": "",
+    "definition": "A sample is a collection of individuals taken from a larger population that is under investigation, on the assumption that they represent the characteristics of the entire population."
+  },
+  {
+    "category": "S",
+    "name": "Sampling frame",
+    "url": "",
+    "definition": "A sampling frame is a means of selecting sample units. It is formed so that every unit of interest within the study population has the same chance of being selected. In its simplest form the sampling frame is a list of all individuals within a population (e.g., animals or farms). Occasionally a list does not exist and a sampling frame must be defined by other means.\n \nAn example of a sampling frame that does not use a list of all study population members is area sampling. Area sampling relies on the association that each element of a population has with a particular geographical area. A sampling frame of areas (regions) is compiled and a selection of areas is made. Them, all units (e.g., farms, or animals within farms) within the selected areas are taken to form the sample."
+  },
+  {
+    "category": "S",
+    "name": "Sampling unit",
+    "url": "",
+    "definition": "A sampling unit is each member of the sampling frame. The sampling unit is the unit of interest: these can be either individuals (animals) or households (farms). In some sampling techniques, more than one sampling unit is collected. This can occur when the sampling units are in a hierarchical arrangement. An example would be the sampling of farms (primary sampling units, PSUs) and then the sampling of animals within farms (secondary sampling units, SSUs). The sampling fraction is the ratio of sample size to the size of the study population."
+  },
+  {
+    "category": "S",
+    "name": "Second order effects",
+    "url": "",
+    "definition": "Second order effects result from the spatial correlation or spatial dependence of a process. Second order effects describe the tendency for deviation in values of the process from its mean to `follow' each other in neighboring sites -- local or small scale effects."
+  },
+  {
+    "category": "S",
+    "name": "Secondary attack rate",
+    "url": "",
+    "definition": "Secondary attack rate is the number of cases of an infection that occur among contacts within the incubation period following exposure to a primary case in relation to the total number of exposed contacts. The denominator is restricted to susceptible contacts when these can be determined. The secondary attack rate provides a measure of contagiousness and is useful in evaluating the effect of control measures."
+  },
+  {
+    "category": "S",
+    "name": "Sensitivity, analytical",
+    "url": "",
+    "definition": "Analytical sensitivity (as opposed to diagnostic sensitivity) is the smallest amount of substance in a sample that can accurately be measured by an assay."
+  },
+  {
+    "category": "S",
+    "name": "Sensitivity",
+    "url": "",
+    "definition": "The sensitivity of a diagnostic test is defined as the proportion of subjects with disease that test positive [p(T+|D+)]. A sensitive test will rarely misclassify individuals with disease.\n\nSe = (Tpos | Dpos) ÷ (Tpos | Dpos + Tneg | Dpos)"
+  },
+  {
+    "category": "S",
+    "name": "Serial interval",
+    "url": "",
+    "definition": "Serial intervals can vary widely, especially for some lifelong diseases (HIV infection, chickenpox, herpes). The serial interval for SARS was 7 days. For COVID-19, a review of the published literature shows serial interval estimates to be 4 to 8 days."
+  },
+  {
+    "category": "S",
+    "name": "Series interpretation of diagnostic tests",
+    "url": "",
+    "definition": "Series interpretation of diagnostic test results means that when multiple tests are performed an individual is declared positive if all of the tests return a positive result. For a given disease prevalence, interpreting test results in series: (1) increases diagnostic specificity (and therefore the positive predictive value); and (2) decreases diagnostic sensitivity (and therefore the negative predictive value). If a large number of tests are performed and interpreted in series then virtually every individual will be classified as negative (which means that diseased individuals will be missed."
+  },
+  {
+    "category": "S",
+    "name": "Seroconversion",
+    "url": "",
+    "definition": "Seroconversion is the appearance in the blood serum of antibodies (as determined by a serology test) following vaccination or natural exposure to a disease agent."
+  },
+  {
+    "category": "S",
+    "name": "Serosurveillance",
+    "url": "",
+    "definition": "Serosurveillance is the process of testing serum samples from individuals in a population of interest for the presence of antibodies to disease agents."
+  },
+  {
+    "category": "S",
+    "name": "Serotype",
+    "url": "",
+    "definition": "A serotype is a subgroup of microorganisms identified by the antigens carried (as determined by a serology test)."
+  },
+  {
+    "category": "S",
+    "name": "Serum neutralisation test",
+    "url": "",
+    "definition": "A serum neutralisation test is a serological test to detect and measure the presence of antibody in a sample. Antibody in serum is serially diluted to detect the highest dilution that neutralises a standard amount of antigen. The neutralising antibody titre is given as the reciprocal of this dilution."
+  },
+  {
+    "category": "S",
+    "name": "Simpson's paradox",
+    "url": "",
+    "definition": "Simpson's paradox is used to describe the situation where a measure of association reverses its direction of effect after stratifying by a third variable. For example, a negative association between an exposure and an outcome may become a positive association after adjusting for the effect of a third variable. In epidemiology Simpson's paradox has been presented as a manifestation of confounding.\n\nReference: Simpson E (1951) The interpretation of interaction in contingency tables. Journal of the Royal Statistical Society, Series B 13: 238 - 241."
+  },
+  {
+    "category": "S",
+    "name": "Simulation model",
+    "url": "",
+    "definition": "Simulation modeling is the process of creating and analysing a digital prototype of a physical or biological system to predict its performance in the real world."
+  },
+  {
+    "category": "S",
+    "name": "Specificity",
+    "url": "",
+    "definition": "The specificity of a diagnostic test is defined as the proportion of subjects without the disease that test negative [p(T-|D-)]. A highly specific test will rarely misclassify individuals without disease.\n\nSp = (Tneg | Dneg) ÷ (Tpos | Dneg + Tneg | Dneg)"
+  },
+  {
+    "category": "S",
+    "name": "Stamping out",
+    "url": "",
+    "definition": "Stamping out is the strategy of eliminating infection from premises through the destruction of animals and in a manner that permits appropriate disposal of carcasses and decontamination of the site."
+  },
+  {
+    "category": "S",
+    "name": "Standard deviation",
+    "url": "",
+    "definition": "The standard deviation of a sample is symbolised by s or SD. The standard deviation of a population is symbolised by σ. For variables that are normally distributed the mean ± 2σ encompasses 95% of the population's values. The standard deviation tells you about the dispersion or variability of results and is used to describe observations. The standard error of the mean is used to describe the population under investigation, or to test a hypothesis."
+  },
+  {
+    "category": "S",
+    "name": "Standard error of mean",
+    "url": "",
+    "definition": "The standard deviation tells you about the dispersion or variability of results and is used to describe observations. The standard error of the mean is used to describe the population under investigation, or to test a hypothesis."
+  },
+  {
+    "category": "S",
+    "name": "Standstill",
+    "url": "",
+    "definition": "Standstill is the restriction of movements of susceptible individuals (for a particular disease, such as foot-and-mouth disease) onto and off premises as part of disease control efforts."
+  },
+  {
+    "category": "S",
+    "name": "Statistical power",
+    "url": "",
+    "definition": "The power of a statistical test is the probability that the test will reject the null hypothesis when the null hypothesis is false (i.e., that it will not make a Type II error, or a false negative decision). As statistical power increases, the chances of a Type II error occurring decrease. The probability of a Type II error occurring is referred to as the false negative rate (b). Therefore power is equal to 1 - b, which is also known as the sensitivity."
+  },
+  {
+    "category": "S",
+    "name": "Stochastic",
+    "url": "",
+    "definition": "A stochastic process (usually a temporal sequence) is one that incorporates some element of randomness."
+  },
+  {
+    "category": "S",
+    "name": "Sufficient causes",
+    "url": "",
+    "definition": "A sufficient cause always produces the disease of interest (that is, if the factor is present the disease invariably follows). A sufficient causal complex is made up of several component causes."
+  },
+  {
+    "category": "S",
+    "name": "Surveillance",
+    "url": "",
+    "definition": "Surveillance is the systematic ongoing collection, collation, and analysis of information related to health and the timely dissemination of that information to those who need to know so that action can be taken."
+  },
+  {
+    "category": "S",
+    "name": "Surveillance system",
+    "url": "",
+    "definition": "A surveillance system is a set of procedures to collect, collate and interpret information about a defined population with respect to disease. Most surveillance systems are comprised of several activities (e.g., on-farm testing, abattoir surveillance, disease hotlines) called surveillance system components (SSCs). Each surveillance system component assesses surveillance system units (SSUs)."
+  },
+  {
+    "category": "S",
+    "name": "Surveillance system sensitivity",
+    "url": "",
+    "definition": "Surveillance system sensitivity (SSe) is defined as the average probability that a surveillance system (as a whole) will return a positive surveillance outcome, given disease is present in the population at a level equal to or greater than a specified design prevalence."
+  },    
+  {
+    "category": "S",
+    "name": "Surveillance system component",
+    "url": "",
+    "definition": "A surveillance system component (SSC) is a surveillance activity (e.g., on-farm testing, abattoir surveillance, disease hotlines) that contributes information to a surveillance system."
+  },   
+  {
+    "category": "S",
+    "name": "Surveillance system component sensitivity",
+    "url": "",
+    "definition": "Surveillance component sensitivity (CSe) is the average probability that a surveillance system component will return a positive surveillance outcome, given disease is present in the population at a level equal to or greater than the specified design prevalence."
+  },    
+  {
+    "category": "S",
+    "name": "Surveillance system unit",
+    "url": "",
+    "definition": "A surveillance system unit (SSU) is the individual item (individual, animal, household, farm) that gets examined within each surveillance system component."
+  },    
+  {
+    "category": "S",
+    "name": "Surveillance system unit sensitivity",
+    "url": "",
+    "definition": "Surveillance unit sensitivity (SUSe) is the probability that a surveillance unit will return a positive test given it truly has disease."
+  },   
+  {
+    "category": "S",
+    "name": "Survey",
+    "url": "",
+    "definition": "A survey is an examination of an aggregate of individual sampling units. When the aggregate of sampling units is the total population, the survey is called a census. More frequently, surveys are conducted on a proportion of the total population (a sample)."
+  },
+  {
+    "category": "S",
+    "name": "Susceptible animals",
+    "url": "",
+    "definition": "Susceptible animals are those that can be infected with a particular disease."
+  },
+  {
+    "category": "S",
+    "name": "Suspect animal",
+    "url": "",
+    "definition": "A suspect animal is an animal that may have been exposed to an emergency disease such that its quarantine and intensive surveillance, but not pre-emptive slaughter, is warranted. or An animal not known to have been exposed to a disease agent but showing clinical signs requiring differential diagnosis."
+  },
+  {
+    "category": "S",
+    "name": "Suspect premises",
+    "url": "",
+    "definition": "Suspect premises (SP) is a temporary classification of a premises that contains a susceptible animal(s) not known to have been exposed to the disease agent but showing clinical signs similar to the case definition, and that therefore requires investigation(s)."
+  },
+  {
+    "category": "S",
+    "name": "Syndrome",
+    "url": "",
+    "definition": "A syndrome is a complex of signs and symptoms that tend to occur together, often characterising a specific disease."
+  },
+  {
+    "category": "S",
+    "name": "Surveillance, syndromic",
+    "url": "",
+    "definition": "Syndromic surveillance is where complexes of signs and symptoms are used as the outcome measure for a surveillance system rather than specific disease diagnoses."
+  },
+    {
+    "category": "S",
+    "name": "Surveillance, event-based",
+    "url": "",
+    "definition": "Event-based surveillance records reports, stories, rumours and other information that could present a serious risk to human or animal health. Such information may be described as unstructured information because the information obtained is in a non-standardised format and may sometimes be subjective in nature."
+  },
+    {
+    "category": "S",
+    "name": "Surveillance, indicator",
+    "url": "",
+    "definition": "Indicator-based surveillance involves reports of specific diseases from health care providers to human and/or animal health officials. Such information may be described as structured information because the information obtained is in a standardised format."
+  },
+  {
+    "category": "S",
+    "name": "Systematic random sampling",
+    "url": "",
+    "definition": "Systematic sampling is a type of probability sampling method in which sample members from a larger population are selected according to a random starting point and a fixed periodic interval. The fixed periodic interval (called the sampling interval) is calculated by dividing the population size by the desired sample size."
+  },
+  {
+    "category": "O",
+    "name": "One- and two-tailed tests",
+    "url": "",
+    "definition": "Specifying the `number of tails' on a statistical test should be part of planning and reporting a study. A one-tailed test is used when the direction of the difference between two groups is known in advance or when differences observed in the opposite direction are not of interest or are not possible. For example, a drug may increase the length of long bones but will not decrease it. A study of changes in bone length is thus not concerned with the probability that bones will be shorter at the end of the study, only the probability that they will be longer. A one-tailed test is appropriate in this situation. If the bones could plausibly be either shorted or longer, a two-tailed test would then be appropriate.\n \nThe minimum difference required for statistical significance is slightly less for a one-tailed test than for a two-tailed test. The two-tailed test is more conservative and is therefore more commonly used. Authors should specify whether tests they use are one or two-tailed and should justify the use of a one-tailed test."
+  },
+  {
+    "category": "T",
+    "name": "Transmission",
+    "url": "",
+    "definition": "Disease may be transmitted in the following ways: (1) horizontally (person to person, animal to animal); or (2) vertically (generation to generation). Horizontal disease transmission occurs by: (a) direct contact when a susceptible host contracts an infection either by physical contact with an infected host or by contact with infected discharges from an infected host; or (b) indirect contact where living or inanimate objects carry infection between infected and susceptible hosts."
+  },
+  {
+    "category": "T",
+    "name": "Trace premises",
+    "url": "",
+    "definition": "Trace premises (TP) is a temporary classification of a premises that contains susceptible animal(s) that tracing indicates may have been exposed to the disease agent, or contains contaminated animal products, wastes or things, and that requires investigation(s)."
+  },
+  {
+    "category": "T",
+    "name": "Tracing",
+    "url": "",
+    "definition": "Tracing is the process of locating animals, people or other items that may be implicated in the spread of disease, so that appropriate action can be taken."
+  },
+  {
+    "category": "T",
+    "name": "Type I error",
+    "url": "",
+    "definition": "A Type I error (a, alpha) is defined as the situation when the null hypothesis is rejected when, in reality, it is true (this is akin to a jury convicting an innocent person)."
+  },
+  {
+    "category": "T",
+    "name": "Type II error",
+    "url": "",
+    "definition": "A Type II error (b, beta) is defined as the situation when the null hypothesis is accepted when, in reality, it is false (this is akin to a jury setting a guilty person free)."
+  },
+  {
+    "category": "U",
+    "name": "Unknown status premises",
+    "url": "",
+    "definition": "Unknown status premises (UP) are premises within a declared area where the current presence of susceptible animals and/or risk products, wastes or things is unknown."
+  },
+
+  {
+    "category": "V",
+    "name": "Variance",
+    "url": "",
+    "definition": "A natural measure of variability of a distribution is the average of the deviations from the mean. The variance equals the average of the squared deviations from the mean. The standard deviation is the positive square root of the variance. Standard deviation has the same units as the units of the variable under investigation. For normal distributions (only), the areas bounded by 1, 2 and 3 standard deviations either side of the mean contain approximately 68%, 95% and 99% of the distribution."
+  },
+  {
+    "category": "V",
+    "name": "Vector",
+    "url": "",
+    "definition": "A vector is an animate transmitter of infectious agents. Invertebrates, usually arthropods act as vectors for disease. A mechanical vector is a living vector (usually an arthropod) that physically carries an infectious agent between hosts. A biological vector is the same as a mechanical vector but there is a stage of multiplication by the agent in the vector before the agent is again transmitted. Developmental transmission, propagative transmission and cyclopropagative transmission can occur within a biological vector."
+  },
+  {
+    "category": "V",
+    "name": "Virulence",
+    "url": "",
+    "definition": "Virulence is a term applied to infectious diseases to describe the severity of disease, after infection has occurred."
+  },
+  {
+    "category": "V",
+    "name": "Virus plume",
+    "url": "",
+    "definition": "A virus plume is an aerosol of virus particles capable of moving over large distances on air currents."
+  },
+  {
+    "category": "Z",
+    "name": "Zero susceptible species premises",
+    "url": "",
+    "definition": "Zero susceptible species premises (ZP) are premises that do not contain any susceptible animals or risk products, wastes or things."
+  },
+  {
+    "category": "Z",
+    "name": "Zone",
+    "url": "",
+    "definition": "A zone is an area defined by geopolitical and/or physical boundaries that contains an animal subpopulation."
+  }
+]
